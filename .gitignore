@@ -1,0 +1,9 @@
+## Ignore
+
+# macOS finder 'DS_Store'
+.DS_Store*
+
+# backup and xfiles
+*.backup
+xfiles/*
+x_*
