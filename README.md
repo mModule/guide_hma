@@ -3,7 +3,7 @@ This just a quick guide to hopefully make it a little easier for people new to H
 
 
 
-### What does Hide My Applist do, or what does it aim to do?:
+### Description
 
 In the simplest terms it aims to stop one app detecting a list of other installed apps, most notably it can often help stop your say banking app
  detecting if you have any of the apps it considers harmful on their apps on internal blacklist - like the magisk app, or like one of found 
@@ -12,7 +12,7 @@ functionality inbuilt, but its early days yet to see whether this is indeed in e
 
 ---
 
-### Pre-requisites:
+### Requirement(s)
 
 - A ROM with a working Magisk root installation (see links to threads for official Magisk and Magisk Delta below), this means ideally you should have a passing Integrity check (successor to SafetyNet) - currently for most people this requires:
 - **Universal SafetyNet Fix Official** from **kdrag0n** from https://github.com/kdrag0n/safetynet-fix  or alternately **2.3.1 Mod 2.1** (or better) from **Displax** https://github.com/Displax/safetynet-fix/releases (depending on which version is later and more effective on your device - if in doubt, try the kdrag0n offical first). 
@@ -48,7 +48,7 @@ functionality inbuilt, but its early days yet to see whether this is indeed in e
 
 ---
 
-### Method:
+### How to
 
 - **Install Lsposed**
 
@@ -174,7 +174,7 @@ functionality inbuilt, but its early days yet to see whether this is indeed in e
 
 ---
 
-### Testing HMA:
+### Testing HMA
 
 Of course you're probably going want to test the apps you primarily installed HMA to assist with, but you can of course test with the following test apps (some of which you may have had installed already and added during the **Configure Apps** step.
 
@@ -231,7 +231,7 @@ The other well known detection tools are:
 
 ---
 
-### HMA Backup & Restore:
+### HMA Backup & Restore
 
 To save recreating the root blacklist template and apps list, you can backup HMA's config and restore it after a clean ROM flash or post factory reset
 
@@ -259,6 +259,6 @@ Restore:
 
 ---
 
-### Reporting Issues Or Providing Feedback On The Guide:
+### Reporting Issues Or Providing Feedback On The Guide
 
 Please report any issues you may find with the guide above via the [Issues](https://github.com/adrianmmiller/Hide-My-Applist-Guide/issues) tab
