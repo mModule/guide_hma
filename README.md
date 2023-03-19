@@ -1,5 +1,5 @@
 # Hide My Applist Guide
-This just a quick guide to hopefully make it a little easier for people new to Hide My Applist (often referred to as **HMA** from hereon in
+This is just a quick guide to hopefully make it a little easier for people new to Hide My Applist (often referred to as **HMA** from hereon in
 
 
 
