@@ -42,6 +42,6 @@ In Android 13 Google has added extra protections to prevent Applist detection ab
 - [Create a blacklist template](BlackList.md)
 - [Create a whitelist template](WhiteList.md)
 
-### Reporting Issues Or Providing Feedback On The Guide
+### <ins>Reporting Issues Or Providing Feedback On The Guide</ins>
 
 Please report any issues you may find with the guide above via the [Issues](https://github.com/mModule/guide_hma/issues) tab
