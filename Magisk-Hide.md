@@ -28,3 +28,14 @@ I wanted to assume that by the time people made it to trying HMA, they would hav
   - You should add any root senstive apps (banking/security apps etc) to your MagiskHide List (please do NOT add ALL apps)
   - Reboot
 
+  **Please Note:**  Methods used to pass Integrity Check, and for extra 'root-trace' hiding, and therefore referenced modules like Shamiko, may change at any time, so please visit and watch the following XDA threads:
+   - **Universal SafetyNet Fix:** https://forum.xda-developers.com/t/magisk-module-universal-safetynet-fix-2-3-1.4217823/
+   - **Magisk - The Age Of Zygisk:** https://forum.xda-developers.com/t/discussion-magisk-the-age-of-zygisk.4393877/
+   - **Magisk Delta:** https://forum.xda-developers.com/t/discussion-magisk-delta-another-unofficial-third-party-magisk-fork.4460555/
+
+
+<ins>Further methods to attempt to increase hiding:</ins>
+
+- A renamed/obfuscated Magisk App (I rename mine 'App', because im lazy and it puts it at the top of the App list when I'm adding it to HMA both during setup and after restoring HMA config after a new ROM flash/factory reset, and HMA installation.)
+
+Please continue [here](README.md#requirements) to check for any further requirements
