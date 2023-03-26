@@ -14,7 +14,7 @@ We do not necessarily advocate a preference of Magisk variant, however, if in do
 
 $\textcolor{orange}{\textsf{Universal SafetyNet Fix:}}$
 
-A Magisk module to work around Google's SafetyNet, and now Integrity Check, attestation.
+A Magisk module to work around Google's SafetyNet Attestation, and now Integrity Check.
 
 <ins>Universal SafetyNet Fix Links:</ins>
 
