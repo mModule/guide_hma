@@ -25,7 +25,13 @@ A Magisk module to work around Google's SafetyNet Attestation, and now Integrity
 
 \* **Please Note: At time of writing (06/02/2023 DD/MM/YYYY)** Kdrag0n's official USNF 2.4.0 does have some issues, if you experience any, please use Displax's 2.3.1 Mod 2.1 (or better) instead.
 
-Please continue [here](Magisk-Hide.md) to **Setting Up A Magisk Installation That Hides Root From Apps**
+---
+
+Continue to :
+
+- [Setting Up A Magisk Installation That Hides Root From Apps](Magisk-Hide.md)
+- [Return Home](README.md)
+
 
 
 
