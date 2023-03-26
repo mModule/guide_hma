@@ -4,7 +4,7 @@ This is just a quick guide to hopefully make it a little easier for people new t
 
 ## <ins>Description</ins>
 
-In the simplest terms it aims to stop one app detecting a list of other installed apps. Most notably it can often help stop your banking app(s) from detecting if you have any of the apps it considers harmful (ie. is on their apps internal blacklist) - Eg. the magisk App, or Teamviewer (a bank flagged this as riskware on my device.)
+In the simplest terms it aims to stop one app detecting a list of other installed apps. Most notably it can often help stop your banking app(s) from detecting if you have any of the apps it considers harmful (ie. is on their apps internal blacklist) - example: the magisk App, or Teamviewer (a bank flagged this as riskware on my device.)
 
 In Android 13 Google has added extra protections to prevent Applist detection abuse by apps but its early days and apps have various ways to bypass Android/Google protections...
 
