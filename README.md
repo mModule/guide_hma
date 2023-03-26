@@ -10,11 +10,11 @@ In Android 13 Google has added extra protections to prevent Applist detection ab
 
 ## <ins>Requirement(s)</ins>
 
-- A Magisk Installation That Passes Integrity Check API 
+- A Magisk installation that passes integrity check API 
   If you think you have a correctly installed and configured Magisk setup that passes Integity Check, then you may like to skip ahead to [here](Integrity-Check.md)
   
   Otherwise please continue [here](Magisk-SafetyNet-Fix.md)
-- A Magisk Installation That Hides Root From Apps see [here](Magisk-Hide.md)
+- A Magisk installation that hides root from apps see [here](Magisk-Hide.md)
   If you think you have a corretcly installed an dconfigured Magisk setup, then you may like to check [here](Integrity-Check.md)
 
 - **Lsposed for systemless XPosed framework:** from [here](https://github.com/LSPosed/LSPosed/releases)
