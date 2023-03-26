@@ -21,9 +21,9 @@ A Magisk module to work around Google's SafetyNet, and now Integrity Check, atte
 - **XDA Thread:** [here](https://forum.xda-developers.com/t/magisk-module-universal-safetynet-fix-2-3-1.4217823/)
 - **Download Links:**   
   - Official from **kdrag0n**: [here](https://github.com/kdrag0n/safetynet-fix/releases) 
-  - Modded by Displax (2.3.1 Mod 2.1 or better): [here](https://github.com/Displax/safetynet-fix/releases)
+  - \* Modded by Displax (2.3.1 Mod 2.1 or better): [here](https://github.com/Displax/safetynet-fix/releases)
 
-**Please Note: At time of writing (06/02/2023 DD/MM/YYYY)** Kdrag0n's offical USNF 2.4.0 does have some issues, if you experience any, please use Displax's 2.3.1 Mod 2.1 (or better) instead.
+\* **Please Note: At time of writing (06/02/2023 DD/MM/YYYY)** Kdrag0n's official USNF 2.4.0 does have some issues, if you experience any, please use Displax's 2.3.1 Mod 2.1 (or better) instead.
 
 Please continue [here](Magisk-Hide.md) to **Setting Up A Magisk Installation That Hides Root From Apps**
 
