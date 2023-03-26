@@ -22,4 +22,4 @@ Regardless of the method used, on most devices, you will only see, or need to pa
 - MEETS DEVICE INTEGRITY
 - MEETS BASIC INTEGRITY
 
-Please continue here to 
+Please continue [here](README.md#requirements) to check for any further requirements 
