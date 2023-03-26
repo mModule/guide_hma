@@ -16,6 +16,7 @@ In Android 13 Google has added extra protections to prevent Applist detection ab
   
   Otherwise please continue [here](Magisk-SafetyNet-Fix.md) to get general info on how to achieve this
 - A Magisk installation that hides root from apps see [here](Magisk-Hide.md)
+
   If you think you have a correctly installed and configured Magisk setup, then you may like to check [here](Integrity-Check.md)
 
 - **Lsposed for systemless XPosed framework:** from [here](https://github.com/LSPosed/LSPosed/releases)
