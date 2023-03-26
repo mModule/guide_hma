@@ -10,7 +10,7 @@ In Android 13 Google has added extra protections to prevent Applist detection ab
 
 ## <ins>Requirement(s)</ins>
 
-- A Magisk installation that passes integrity check API
+- A Magisk installation that passes the Integrity Check API
 
   If you think you have a correctly installed and configured Magisk setup that passes Integity Check, then you may like to skip ahead to [here](Integrity-Check.md)
   
