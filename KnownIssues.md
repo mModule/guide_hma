@@ -1,6 +1,6 @@
 # Additional Notes & Known/Suspected Issues:
 
-- **HMA is still detected by X detection app:**
+- ## **HMA is still detected by X detection app:**
    You may need to activate Vold App Data Isolation - Be aware a couple of people have reported that toggling this on has ended in tears for them, these people though have non-standard setups, using modules and apps which i and most people dont run and wouldnt recommend, and so therefore their experiences may be due to changes they have made to their systemns outside the scope of this guide. 
  
    The following issues were highlighted, thanks **stillhard**
