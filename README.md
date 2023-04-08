@@ -46,6 +46,11 @@ In Android 13 Google has added extra protections to prevent Applist detection ab
 - [Test HMA](TestHMA.md)
 - [Backup and Restore HMA settings](BackupAndRestore.md)
 
+## <ins>Known Issues:</ins>
+- [HMA is still detected by x app](KnownIssues.md#hma-is-still-detected-by-x-detection-app)
+
+
+
 ### <ins>Reporting Issues Or Providing Feedback On The Guide</ins>
 
 Please report any issues you may find with the guide above via the [Issues](https://github.com/mModule/guide_hma/issues) tab
