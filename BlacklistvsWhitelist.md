@@ -18,9 +18,6 @@ Uses a blacklist template (in the Template Manage section), containining those a
 
 (Generally) Uses enabling/toggling of Hide, Whitelist Work Mode and Exclude System Apps per app you wish to hide from other apps
 
-blacklist template (in the Template Manage section), containining those apps and modules (magisk, lsposed/xposed modules and associated apps) you wish you hide from a list of apps you select in the App Manage section.
-
-
 
 Each mode has its pros and cons. This table aims to simply those. 
 
