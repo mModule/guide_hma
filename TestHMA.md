@@ -1,4 +1,4 @@
-# Testing HMA
+# Test HMA
 
 Of course you're probably going want to test the apps you primarily installed HMA to assist with, but you can of course test with the following test apps (some of which you may have had installed already and added during the **Configure Apps** step.
 
