@@ -1,6 +1,6 @@
 # Blacklist vs Whitelist mode
 
-## Blacklist mode
+## Blacklist mode (with template)
 
 Uses a blacklist template (in the Template Manage section), containining those apps and modules (magisk, lsposed/xposed modules and associated apps) you wish you hide from a list of apps you select in the App Manage section.
 
