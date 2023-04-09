@@ -24,7 +24,20 @@ You can manually place it or..<br>
 
 ---
 
-Continue to :
-- [Installing HMA](Install.md)
+Continue to :<br>
+[Install LSPosed]<br>
+[Install HMA] <br>
+[Configure HMA using the blacklist method]<br>
+[Configure HMA using the whitelist method]<br>
+[Test HMA]<br>
+[Backup and Restore HMA settings]<br>
 
-- [Return Home](README.md)
+[<i>Return Home<i>](README.md)
+
+[Install LSPosed]: (Install-LSPosed.md)
+[Install HMA]: (Install.md)
+[Compare HMA Blacklist vs Whitelist Methods]: (BlacklistvsWhitelist.md)
+[Configure HMA using the blacklist method]: (BlackList.md)
+[Configure HMA using the whitelist method]: (WhiteList.md)
+[Test HMA]: (TestHMA.md)
+[Backup and Restore HMA settings]: (BackupAndRestore.md)
