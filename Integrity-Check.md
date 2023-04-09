@@ -26,5 +26,24 @@ Regardless of the method used, on most devices, you will only see, or need to pa
 
 Continue to :
 
-- [Check for any further requirements](README.md#requirements)
-- [Return Home](README.md)
+
+Jump to :<br>
+[Magisk USNF] - [MagiskHide]<br>
+
+[<i>Return Home</i>](MagiskTOC.md)
+
+<!--List of page links-->
+[HMA Home]: (README.md)
+[Install LSPosed]: Install-LSPosed.md
+[Install HMA]: Install.md
+[Compare HMA Blacklist vs Whitelist Methods]: BlacklistvsWhitelist.md
+[Configure BlackList]: BlackList.md
+[Configure WhiteList]: WhiteList.md
+[Test HMA]: TestHMA.md
+[Backup and Restore]: BackupAndRestore.md
+[KnownIssues]: https://github.com/mModule/guide_hma/blob/master/KnownIssues.md
+
+[Magisk Pages]: MagiskTOC.md
+[Magisk USNF]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
+[PlayIntegrity]: https://github.com/mModule/guide_hma/blob/master/Integrity-Check.md
+[MagiskHide]: https://github.com/mModule/guide_hma/blob/master/Magisk-Hide.md

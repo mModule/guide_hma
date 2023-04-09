@@ -1,56 +1,60 @@
 # Hide My Applist Guide
 
-This is just a quick guide to hopefully make it a little easier for people new to Hide My Applist (often referred to as **HMA** from hereon in)
+This is just a quick guide to hopefully make it a little easier for people new to Hide My Applist.<br>
+<i>Often referred to as <b>HMA</b> and will be referenced as such in the majority of this guide.</i>
 
-## <ins>Description</ins>
+## Description
 
 In the simplest terms it aims to stop one app detecting a list of other installed apps. Most notably it can often help stop your banking app(s) from detecting if you have any of the apps it considers harmful (ie. is on their apps internal blacklist) - example: the magisk App, or Teamviewer (a bank flagged this as riskware on my device.)
 
 In Android 13 Google has added extra protections to prevent Applist detection abuse by apps but its early days and apps have various ways to bypass Android/Google protections...
 
-## <ins>Requirement(s)</ins>
+## Requirement(s)
+- Magisk
+  - <i>Preferably a Magisk installation (setup) that passes Play Integrity.</i>
+- LSPosed
+  - <i>Systemless Xposed framework.</i>
 
-- A Magisk installation that passes the Integrity Check API
+## Download Links
+- [LSPosed framework](https://github.com/LSPosed/LSPosed/releases)
+- [Hide My Applist (HMA)](https://github.com/Dr-TSNG/Hide-My-Applist/releases)
 
-  If you think you have a correctly installed and configured Magisk setup that passes Integity Check, then you may like to skip ahead to [here](Integrity-Check.md)
-  
-  Otherwise please continue [here](Magisk-SafetyNet-Fix.md) to get general info on how to achieve this
-- A Magisk installation that hides root from apps see [here](Magisk-Hide.md)
-
-- **Lsposed for systemless XPosed framework:** from [here](https://github.com/LSPosed/LSPosed/releases)
-
-  Either Zygisk or Riru version depending on your fork of Magisk
-
-  For most people on the official Magisk builds, this will be the Zygisk build
-
-  For people on the Magisk Delta build by **huskydg** my current understanding is:
-
-  - if you have **enabled Zygisk** in your Magisk Manager, you should install the **Zygisk** build
-  - if you have **disabled Zygisk** in your Magisk Manager, you should install the **Riru** build
-
-- **Hide My Applist (a v3 branch apk):** from [here](https://github.com/Dr-TSNG/Hide-My-Applist/releases)
-
-  **Note #1 (Versions):** Its now **SAFE** to use the downloader in **Lsposed Manager** to download/update it (when this guide was originally posted LSPosed was only serving v2.x builds as v3.x were still in beta)   
-
-  **Note #2 (Bootloops):** HMA v2.x also used a companion magisk module that you MUST now uninstall if upgrading... It's use with 3.x will cause bootloops.  HMA v3.x **DOES NOT** require a magisk module to achieve its purpose!
-
-
-
-## <ins>How to</ins>
-
+## Pages (How to)
 - [Install LSPosed](Install-LSPosed.md)
-- [Install and configure HMA](Install.md)
+- [Install HMA](Install.md)
 - [Compare HMA Blacklist vs Whitelist Methods](BlacklistvsWhitelist.md)
 - [Configure HMA using the blacklist method](BlackList.md)
 - [Configure HMA using the whitelist method](WhiteList.md)
-- [Test HMA](TestHMA.md)
+- [Testing HMA](TestHMA.md)
 - [Backup and Restore HMA settings](BackupAndRestore.md)
 
-## <ins>Known Issues:</ins>
+## Notes
+<b>This guide is for Hide My Applist v3.x</b>
+>1. It is now <b>safe</b> to use the downloader in <i>LSPosed Manager</i> to download/update HMA.<br>
+<i>(When this guide was originally posted LSPosed was only serving v2.x builds as v3.x were still in beta)</i><br>
+
+>2. HMA v2.x required a companion magisk module that <b>must be uninstall</b> when updating to HMA v3.x.<br>
+<b><i>It's use with v3.x will cause bootloops.</i></b><br>
+<i>HMA v3.x <b>does not</b> require a magisk module to achieve its purpose!</i><br>
+
+<b>LSPosed for systemless XPosed framework</b>
+>Either Zygisk or Riru version depending on your fork of Magisk.<br>
+For most people on the official Magisk builds, this will be the Zygisk build.
+
+>For people on the Magisk Delta build by **huskydg** my current understanding is:
+>- if you have **enabled Zygisk** in your Magisk Manager, you should install the **Zygisk** build
+>- if you have **disabled Zygisk** in your Magisk Manager, you should install the **Riru** build
+
+<b>Magisk</b>
+>Configuration of Magisk is outside the scope of this guide.<br>
+<i>A minimal set of instructions have been written for completeness.<br>
+See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i><br>
+
+## Known Issue(s)
 - [HMA is still detected by x app](KnownIssues.md#hma-is-still-detected-by-x-detection-app)
 
 
+---
 
-### <ins>Reporting Issues Or Providing Feedback On The Guide</ins>
-
-Please report any issues you may find with the guide above via the [Issues](https://github.com/mModule/guide_hma/issues) tab
+### Reporting Issues Or Providing Feedback On The Guide
+Please report any issues you may find with the guide above via the [Issues](https://github.com/mModule/guide_hma/issues) tab.
