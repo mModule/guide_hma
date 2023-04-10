@@ -16,12 +16,12 @@ The LSPosed module will be installed.<br>
 
  ![](image/lsp03.jpg?raw=true)
 
-After your device restarts. You will have a prompt to add a shortcut to your launcher.<br>
-You can manually place it or..<br>
-1. Select <i><b>Add Automatically</b></i>
+After your device restarts. You will now have a acces to Lsposed Manager via an "Lsposed Loaded" entry in your Notification pulldown.
+
+To access the Lsposed Module Manager, after locating the Lsposed Loaded entry in your notification pulldown, first expand the section, then tap the notification to open theLSposed Module Manager
 
  ![](image/lsp04.jpg?raw=true) ![](image/lsp05.jpg?raw=true)
-
+ 
 ---
 
 Continue to :<br>
