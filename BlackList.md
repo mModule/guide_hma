@@ -2,15 +2,15 @@
 
    When the **Settings** screen opens, tap on **Template Manage**
 
-   ![](image/HMA9.jpg?raw=true)
+   ![](image/HMA04.jpg?raw=true)
 
    On the next screen tap **Create A Blacklist Template**
 
-   ![](image/HMA10.jpg?raw=true)
+   ![](image/HMA05.jpg?raw=true)
 
    On the following screen, type **root** into the **Template Name** box, then tap **Edit List**, just below and to the right
 
-   ![](image/HMA11.jpg?raw=true)
+   ![](image/HMA06.jpg?raw=true)
 
 
    Selecting root, HMA and lsposed apps...
@@ -24,7 +24,7 @@
 
    When youre done, tap the back navigation key, swipe back or tap the back arrow in top left to return to main HMA screen
 
-   ![](image/HMA12.jpg?raw=true)
+   ![](image/HMA07.jpg?raw=true)
 
 
 
@@ -32,7 +32,7 @@
 
    From the main HMA Settings menu, tap **App Manage**
 
-   ![](image/HMA13.jpg?raw=true)
+   ![](image/HMA08.jpg?raw=true)
 
    On the following screen, you'll see a list of all your apps, select any which you want to hide root, HMA and any xposed/lsposed modules from, by tapping to tick them
 
@@ -49,18 +49,18 @@
       - Tap the toggle to the right of **Enable Hide** to enable hiding
       - Under **Template Config** (toward bottom) tap **Using 0 Template**
 
-         ![](image/HMA14.jpg?raw=true)
+         ![](image/HMA09.jpg?raw=true)
 
       On the popup window that appears:
 
       - Tap the checkbox next to **root** to select the root blacklist template
       - Tap **OK** to close the popup window
    
-         ![](image/HMA15.jpg?raw=true)
+         ![](image/HMA10.jpg?raw=true)
 
    You should now see a screen similar to this for the app you just configured
 
-   ![](image/HMA16.jpg?raw=true)
+   ![](image/HMA11.jpg?raw=true)
 
    When youre done, tap back navigation key, swipe back or tap the back arrow in top left to return to app list, and repeat the above few steps for each app you wish to hide root, HMA and any xposed/lsposed modules from
 
@@ -74,11 +74,11 @@
 
    After reboot has completed, launch HMA from your launcher
 
-   ![](image/HMA17.jpg?raw=true)
+   ![](image/HMA12.jpg?raw=true)
 
    You should show the following screen, showing the status as Activated
 
-   ![](image/HMA18.jpg?raw=true)
+   ![](image/HMA13.jpg?raw=true)
 
 
    **Please Note:** 
@@ -87,9 +87,26 @@
 
 ---
 
-Continue to :
-- [Test HMA](TestHMA.md)
-- [Return Home](README.md)
+Continue to :<br>
+[<b>Testing HMA</b>](TestHMA.md)<br>
 
+Jump to :<br>
+[Install LSPosed] - [Install HMA] - [Configure BlackList] - [Configure WhiteList] - [Backup and Restore]<br>
 
+[<i>Return Home</i>](README.md)
 
+<!--List of page links-->
+[HMA Home]: (README.md)
+[Install LSPosed]: Install-LSPosed.md
+[Install HMA]: Install.md
+[Compare HMA Blacklist vs Whitelist Methods]: BlacklistvsWhitelist.md
+[Configure BlackList]: BlackList.md
+[Configure WhiteList]: WhiteList.md
+[Test HMA]: TestHMA.md
+[Backup and Restore]: BackupAndRestore.md
+[KnownIssues]: https://github.com/mModule/guide_hma/blob/master/KnownIssues.md
+
+[Magisk Pages]: MagiskTOC.md
+[Magisk USNF]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
+[PlayIntegrity]: https://github.com/mModule/guide_hma/blob/master/Integrity-Check.md
+[MagiskHide]: https://github.com/mModule/guide_hma/blob/master/Magisk-Hide.md

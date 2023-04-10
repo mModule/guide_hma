@@ -28,7 +28,7 @@ Continue to :<br>
 [<b>Installing HMA</b>](Install.md)<br>
 
 Jump to :<br>
-[Configure BlackList] - [Configure WhiteList] - [Test HMA] - [Backup and Restore]<br>
+[Install HMA] - [Configure BlackList] - [Configure WhiteList] - [Test HMA] - [Backup and Restore]<br>
 
 [<i>Return Home</i>](README.md)
 

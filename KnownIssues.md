@@ -12,7 +12,7 @@
 
    From the HMA home screen: 
 
-   ![](image/HMA18b.jpg?raw=true)
+   ![](image/HMA14.jpg?raw=true)
 
    - Tap **Settings** (gear icon in bottom right) 
    - Scroll to **Module** section 
@@ -28,6 +28,26 @@
    - Reboot device 
 ---
 
-Continue to :
-- [Return Home](README.md)
+Continue to :<br>
+[Return to Home](README.md)
 
+Jump to :<br>
+[Install LSPosed] - [Configure BlackList] - [Configure WhiteList] - [Test HMA] - [Backup and Restore]<br>
+
+[<i>Return Home</i>](README.md)
+
+<!--List of page links-->
+[HMA Home]: (README.md)
+[Install LSPosed]: Install-LSPosed.md
+[Install HMA]: Install.md
+[Compare HMA Blacklist vs Whitelist Methods]: BlacklistvsWhitelist.md
+[Configure BlackList]: BlackList.md
+[Configure WhiteList]: WhiteList.md
+[Test HMA]: TestHMA.md
+[Backup and Restore]: BackupAndRestore.md
+[KnownIssues]: https://github.com/mModule/guide_hma/blob/master/KnownIssues.md
+
+[Magisk Pages]: MagiskTOC.md
+[Magisk USNF]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
+[PlayIntegrity]: https://github.com/mModule/guide_hma/blob/master/Integrity-Check.md
+[MagiskHide]: https://github.com/mModule/guide_hma/blob/master/Magisk-Hide.md
