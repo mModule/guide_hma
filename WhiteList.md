@@ -20,7 +20,7 @@ On the following screen, you'll see a list of all your apps, select any which yo
   - **Google Pay/Wallet**
   - **Banking apps**
   - **Wearables apps**
-  - Any "detection" apps (see list in [Test HMA](TestHMA.md) page for common detection apps)
+  - Any "detection" apps (see list in [Testing HMA](TestHMA.md) page for common detection apps)
   
   For each app you add, do the following:
   - Tap the toggle to the right of **Enable Hide** to enable hiding
