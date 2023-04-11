@@ -39,7 +39,7 @@ There are two options for hiding, they are exact opposites of each other.<br>
   <i>Only allowing the apps you choose to be found.</i>
 
 If you have not read the differences between BlackList and WhiteList modes, please do so now.<br>
-[Compare HMA Blacklist vs Whitelist Methods]
+[Compare HMA Blacklist vs Whitelist Modes]
 
 <i>You can use a mix of both BlackList and WhiteList modes.</i>
 
@@ -59,7 +59,7 @@ Jump to :<br>
 [HMA Home]: (README.md)
 [Install LSPosed]: Install-LSPosed.md
 [Install HMA]: Install.md
-[Compare HMA Blacklist vs Whitelist Methods]: BlacklistvsWhitelist.md
+[Compare HMA Blacklist vs Whitelist Modes]: BlacklistvsWhitelist.md
 [Configure BlackList]: BlackList.md
 [Configure WhiteList]: WhiteList.md
 [Test HMA]: TestHMA.md
