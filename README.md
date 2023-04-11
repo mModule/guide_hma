@@ -56,7 +56,7 @@ See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i
 
 ---
 
-##Credits:
+## Credits:
 
 Content - mostly (especially if inaccurate/broken/typo'd) is likely to be by 73sdyney/adrianmmiller, though with generous (and far more accurate) contributions by **ipdev** and **pndwal**.
 
