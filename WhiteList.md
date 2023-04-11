@@ -1,6 +1,6 @@
 # Using the Whitelist method
 
-Open HideMyApp from your app drawer or shortcut
+You should be on the HMA Home tab at this point, if not, please open HMA from your app drawer
 
 ![](image/HMA12.jpg?raw=true)
 
