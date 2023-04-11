@@ -2,8 +2,6 @@
 
 You should be on the HMA Home tab at this point, if not, please open HMA from your app drawer
 
-![](image/HMA12.jpg?raw=true)
-
 Unlike the blacklist method, in this whitelist method doesnt require creating a template, just configuring apps
 
 ## Configuring Apps
