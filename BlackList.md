@@ -1,4 +1,4 @@
-# Create A Blacklist Template
+# Using Blacklist mode
 
 You should be on the HMA Home tab at this point, if not, please open HMA from your app drawer
 
