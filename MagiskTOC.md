@@ -17,8 +17,8 @@ A minimal set of instructions to configure and setup Magisk to pass Play Integri
 
 ## Download Links
 - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
-- [Universal SaftyNet Fix (USNF)](https://github.com/kdrag0n/safetynet-fix/releases) - Official.
-- [Universal SaftyNet Fix (USNF)](https://github.com/Displax/safetynet-fix/releases) - Modified.
+- [Universal SafetyNet Fix (USNF)](https://github.com/kdrag0n/safetynet-fix/releases) - Official.
+- [Universal SafetyNet Fix (USNF)](https://github.com/Displax/safetynet-fix/releases) - Modified by **Displax**.
 
 ## Notes
 If you think you have a correctly configured Magisk to pass Play Intergity.<br>
@@ -39,7 +39,7 @@ Otherwise please continue [here](Magisk-SafetyNet-Fix.md) to get general info on
 [HMA Home]: (README.md)
 [Install LSPosed]: Install-LSPosed.md
 [Install HMA]: Install.md
-[Compare HMA Blacklist vs Whitelist Methods]: BlacklistvsWhitelist.md
+[Compare HMA Blacklist vs Whitelist Modes]: BlacklistvsWhitelist.md
 [Configure BlackList]: BlackList.md
 [Configure WhiteList]: WhiteList.md
 [Test HMA]: TestHMA.md
