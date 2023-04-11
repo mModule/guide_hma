@@ -1,6 +1,6 @@
 # Installing the LSPosed Magisk Module.
 
-Download (copy) the LSPosed zip file to you device.<br>
+Download (or copy) the LSPosed zip file to your device.<br>
 1. Open the Magisk app and switch to the Modules section at bottom of the screen.
 2. Select <i><b>Install from storage</b></i> at the top of screen.
 
@@ -16,9 +16,9 @@ The LSPosed module will be installed.<br>
 
  ![](image/lsp03.jpg?raw=true)
 
-After your device restarts. You will now have a acces to Lsposed Manager via an "Lsposed Loaded" entry in your Notification pulldown.
+After your device restarts. You will now have a access to LSPosed Manager via an "Lsposed Loaded" entry in your Notification pulldown.
 
-To access the Lsposed Module Manager, after locating the Lsposed Loaded entry in your notification pulldown, first expand the section, then tap the notification to open theLSposed Module Manager
+To access the LSPosed Module Manager, after locating the LSPosed Loaded entry in your notification pulldown, first expand the section, then tap the notification to open the LSPosed Module Manager
 
  ![](image/lsp04.jpg?raw=true) ![](image/lsp05.jpg?raw=true)
  
