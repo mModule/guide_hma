@@ -50,19 +50,22 @@ For most people on the official Magisk builds, this will be the Zygisk build.
 <i>A minimal set of instructions have been written for completeness.<br>
 See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i><br>
 
+<b>Testing/Guide Creation Environment</b>
+>This guide was first conceived and written and tested on Android 12, then 13, using at the time current versions of all apps and modules.<br>
+<i>Certain steps may not relfect your experience on earlier version of Android OR app or modules. If you find a difference in your experience, please let us know via the [Issues](https://github.com/mModule/guide_hma/issues) tab, so we can address it, thanks.</i><br>
+
 ## Known Issue(s)
 - [HMA is still detected by x app](KnownIssues.md#hma-is-still-detected-by-x-detection-app)
-
 
 ---
 
 ## Credits:
 
-Content - mostly (especially if inaccurate/broken/typo'd) is likely to be by 73sdyney/adrianmmiller, though with generous (and far more accurate) contributions by **ipdev** and **pndwal**.
+Content - mostly (especially if inaccurate/broken/typo'd) is likely to be by 73sdyney/adrianmmiller, though with generous (and far more accurate) contributions by **ipdev**, **pndwal** and **zgfg**
 
 Layout - almost entirely **ipdev**. He put a **LOT** into trying to chop this thing up into manageable and friendlier to user portions
 
 ---
 
-### Reporting Issues Or Providing Feedback On The Guide
+## Reporting Issues Or Providing Feedback On The Guide
 Please report any issues you may find with the guide above via the [Issues](https://github.com/mModule/guide_hma/issues) tab.
