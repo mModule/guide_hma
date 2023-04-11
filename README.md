@@ -56,5 +56,11 @@ See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i
 
 ---
 
+##Credits:
+
+Content - mostly (especially if inaccurate/broken/typo'd) is likely to be by 73sdyney/adrianmmiller, though with generous (and far more accurate) contributions by **ipdev** and **pndwal**.
+
+Layout - almost entirely **ipdev**. He put a **LOT** into trying to chop this thing up into manageable and friendlier to user portions
+
 ### Reporting Issues Or Providing Feedback On The Guide
 Please report any issues you may find with the guide above via the [Issues](https://github.com/mModule/guide_hma/issues) tab.
