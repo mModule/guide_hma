@@ -1,18 +1,22 @@
 # Installing and activating HMA.
 
-Download (copy) the HMA apk file to you device.<br>
+Download (or copy) the HMA apk file to your device.<br>
+
 Open your favorite file manager and navigate the directory where you stored the HMA apk file.
 1. Select the the HMA apk file and install it.
 
 ![](image/HMA01.jpg?raw=true)
 
-When the install is complete.<br>
-You will see a new notification in the notification bar, pull down your notification bar.
+When the install is complete, you will see a new notification in the notification bar.
+
+Pull down your notification bar.
+
 1. Select the <b>Xposed Module Is Not Activated Yet</b> notification.
 
 ![](image/HMA02.jpg?raw=true)
 
 LSPosed module manager will open to the HMA app.<br>
+
 Activate HMA and then open HMA's settings (Home screen).
 1. Turn on the <i>Enable module</i> toggle.
 2. Select <b>only</b> <i>System Framework</i> for the scope that HMA is applied to.
@@ -23,8 +27,7 @@ Activate HMA and then open HMA's settings (Home screen).
 
 ## Configure HMA
 
-After selecting the gear icon to open HMA.<br>
-You will be able to setup and configure HMA.
+After selecting the gear icon to open HMA, you will be able to setup and configure HMA.
 
 ![](image/HMA00.jpg?raw=true)
 
