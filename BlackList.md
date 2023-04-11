@@ -1,8 +1,6 @@
 # Create A Blacklist Template
 
-Open HMA from your app drawer or shortcut
-
-![](image/HMA12.jpg?raw=true)
+You should be on the HMA Home tab at this point, if not, please open it from your app drawer
 
 ## Template Creation
 
