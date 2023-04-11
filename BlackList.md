@@ -70,7 +70,7 @@ On the following screen, you'll see a list of all your apps, select any which yo
 
 - Close out from HMA
 - Reboot your device to activate HMA and the configuration you just setup
-- After reboot has completed, launch HMA from your launcher
+- After reboot has completed, launch HMA from your app drawer
 
   ![](image/HMA12.jpg?raw=true)
 
