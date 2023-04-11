@@ -4,6 +4,10 @@ Open HideMyApp from your app drawer or shortcut
 
 ![](image/HMA12.jpg?raw=true)
 
+Unlike the blacklist method, in this whitelist method doesnt require creating a template, just configuring apps
+
+## Configuring Apps
+
 On the Home tab, tap **App Manage**
 
 ![](image/wl01.jpg?raw=true)
@@ -16,7 +20,7 @@ On the following screen, you'll see a list of all your apps, select any which yo
   - **Google Pay/Wallet**
   - **Banking apps**
   - **Wearables apps**
-  - Any "detection" apps (see list in **Testing HMA** page for common detection apps)
+  - Any "detection" apps (see list in [Test HMA](TestHMA.md) page for common detection apps)
   
   For each app you add, do the following:
   - Tap the toggle to the right of **Enable Hide** to enable hiding
