@@ -62,7 +62,7 @@ See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i
 
 ## Credits
 
-Content - mostly (especially if inaccurate/broken/typo'd) is likely to be by 73sdyney/adrianmmiller, though with generous (and far more accurate) contributions by **ipdev**, **pndwal** and **zgfg**
+Content - mostly (especially if inaccurate/broken/typo'd) is likely to be by 73sydney/adrianmmiller, though with generous (and far more accurate) contributions by **ipdev**, **pndwal** and **zgfg**
 
 Layout - almost entirely **ipdev**. He put a **LOT** into trying to chop this thing up into manageable and friendlier to user portions
 
