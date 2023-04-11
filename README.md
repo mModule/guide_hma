@@ -52,7 +52,7 @@ See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i
 
 <b>Testing/Guide Creation Environment</b>
 >This guide was first conceived and written and tested on Android 12, then 13, using at the time current versions of all apps and modules.<br>
-<i>Certain steps may not relfect your experience on earlier version of Android OR app or modules. If you find a difference in your experience, please let us know via the [Issues](https://github.com/mModule/guide_hma/issues) tab, so we can address it, thanks.</i><br>
+<i>Certain steps may not reflect your experience on earlier versions of Android OR app or modules. If you find a difference in your experience, please let us know via the [Issues](https://github.com/mModule/guide_hma/issues) tab, so we can address it, thanks.</i><br>
 
 ## Known Issue(s)
 - [HMA is still detected by x app](KnownIssues.md#hma-is-still-detected-by-x-detection-app)
