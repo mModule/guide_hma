@@ -36,7 +36,7 @@ Jump to :<br>
 [HMA Home]: (README.md)
 [Install LSPosed]: Install-LSPosed.md
 [Install HMA]: Install.md
-[Compare HMA Blacklist vs Whitelist Methods]: BlacklistvsWhitelist.md
+[Compare HMA Blacklist vs Whitelist Modes]: BlacklistvsWhitelist.md
 [Configure BlackList]: BlackList.md
 [Configure WhiteList]: WhiteList.md
 [Test HMA]: TestHMA.md
