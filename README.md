@@ -62,12 +62,12 @@ See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i
 
 ## Credits
 
--**ipdev** for content contributions and especially layout, not to mention the new repo
--**pndwal** for content contributions
--**zgfg** for content
--**John Wu (@topjohnwu)** for all things Magisk.
--**Dr-TSNG (nullptr)** for HMA
--**LoveSy**, **vvb2060** and **tehcneko** for Lsposed
+- **ipdev** for content contributions and especially layout, not to mention the new repo
+- **pndwal** for content contributions
+- **zgfg** for content
+- **John Wu (@topjohnwu)** for all things Magisk.
+- **Dr-TSNG (nullptr)** for HMA
+- **LoveSy**, **vvb2060** and **tehcneko** for Lsposed
 
 ---
 
