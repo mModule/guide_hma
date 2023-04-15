@@ -68,6 +68,7 @@ See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i
 - **John Wu (@topjohnwu)** for all things Magisk.
 - **Dr-TSNG (nullptr)** for HMA
 - **LoveSy**, **vvb2060** and **tehcneko** for Lsposed
+- **72sydney/adrianmmiller** for content contributions, especially any typos you find
 
 ---
 
