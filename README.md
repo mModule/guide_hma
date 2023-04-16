@@ -57,7 +57,7 @@ See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i
 
 ## Known Issue(s)
 - [HMA is still detected by x app](KnownIssues.md#hma-is-still-detected-by-x-detection-app)
-- Android 14 Beta -> Trying current (as of writing 3.1.1) HMA on Android 14 beta will result in an instant reboot. Do not use on Android 14. Do not raise an issue for beta or untested Android versions here.
+- Android 14 Beta -> Trying current (as of writing 3.1.1) HMA on Android 14 beta will result in an instant reboot (apparently, someone tried it). Do not use on Android 14. Do not raise an issue for beta or untested Android versions here.
 ---
 
 ## Credits
