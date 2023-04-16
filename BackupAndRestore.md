@@ -11,7 +11,7 @@ Backup:
 Restore:
 
 - Copy **HMA_Config.json** onto device if needed
-- Run through the setup as above until you reach the main HMA window at the **Configure HMA** stage
+- Run through the setup as above until you reach the main HMA window at the [**Configure HMA**](https://github.com/mModule/guide_hma/blob/master/Install.md#configure-hma) stage
 - From the main HMA screen scroll down if need be (due to ad placement) and tap **Restore**
 - Locate where you stored the **HMA_Config.json** (prenamed) file and then tap **Restore**
 - If you rename (hide) the Magisk Manager app, and you should, you will need to add the (new) renamed Magisk Manager's app to the root blacklist template after restoring the HMA config:
