@@ -24,8 +24,8 @@ In Android 13 Google has added extra protections to prevent Applist detection ab
 - [Install LSPosed](Install-LSPosed.md)
 - [Install HMA](Install.md)
 - [Compare HMA Blacklist vs Whitelist Modes](BlacklistvsWhitelist.md)
-- [Configure HMA using the blacklist mode](BlackList.md)
-- [Configure HMA using the whitelist mode](WhiteList.md)
+- [Configure HMA using the Blacklist Mode](BlackList.md)
+- [Configure HMA using the Whitelist Mode](WhiteList.md)
 - [Testing HMA](TestHMA.md)
 - [Backup and Restore HMA settings](BackupAndRestore.md)
 
