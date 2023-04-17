@@ -46,9 +46,9 @@ If you have not read the differences between BlackList and WhiteList modes, plea
 ---
 
 Continue to :<br>
-[<b>Create a blacklist template</b>](BlackList.md)<br>
+[<b>Configure Blacklist</b>](BlackList.md)<br>
 or<br>
-[<b>Create a whitelist template</b>](WhiteList.md)<br>
+[<b>Configure Whitelist</b>](WhiteList.md)<br>
 
 Jump to :<br>
 [Install LSPosed] - [Configure BlackList] - [Configure WhiteList] - [Test HMA] - [Backup and Restore]<br>
@@ -60,8 +60,8 @@ Jump to :<br>
 [Install LSPosed]: Install-LSPosed.md
 [Install HMA]: Install.md
 [Compare HMA Blacklist vs Whitelist Modes]: BlacklistvsWhitelist.md
-[Configure BlackList]: BlackList.md
-[Configure WhiteList]: WhiteList.md
+[Configure HMA using the Blacklist Mode](BlackList.md)
+[Configure HMA using the Whitelist Mode](WhiteList.md)
 [Test HMA]: TestHMA.md
 [Backup and Restore]: BackupAndRestore.md
 [KnownIssues]: https://github.com/mModule/guide_hma/blob/master/KnownIssues.md
