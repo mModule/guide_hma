@@ -46,27 +46,27 @@ If you have not read the differences between BlackList and WhiteList modes, plea
 ---
 
 Continue to :<br>
-[<b>Configure Blacklist</b>](BlackList.md)<br>
+[<b>Configure Blacklist Mode</b>](BlackList.md)<br>
 or<br>
-[<b>Configure Whitelist</b>](WhiteList.md)<br>
+[<b>Configure Whitelist Mode</b>](WhiteList.md)<br>
 
 Jump to :<br>
-[Install LSPosed] - [Configure BlackList] - [Configure WhiteList] - [Test HMA] - [Backup and Restore]<br>
+[Install LSPosed] - [Configure Blacklist Mode]  - [Configure Whitelist Mode] - [Test HMA] - [Backup and Restore]<br>
 
 [<i>Return Home</i>](README.md)
 
 <!--List of page links-->
-[HMA Home]: (README.md)
+[HMA Home]: README.md
 [Install LSPosed]: Install-LSPosed.md
 [Install HMA]: Install.md
 [Compare HMA Blacklist vs Whitelist Modes]: BlacklistvsWhitelist.md
-[Configure HMA using the Blacklist Mode](BlackList.md)
-[Configure HMA using the Whitelist Mode](WhiteList.md)
+[Configure Blacklist Mode]: BlackList.md
+[Configure Whitelist Mode]: WhiteList.md
 [Test HMA]: TestHMA.md
 [Backup and Restore]: BackupAndRestore.md
-[KnownIssues]: https://github.com/mModule/guide_hma/blob/master/KnownIssues.md
+[KnownIssues]: KnownIssues.md
 
 [Magisk Pages]: MagiskTOC.md
-[Magisk USNF]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
-[PlayIntegrity]: https://github.com/mModule/guide_hma/blob/master/Integrity-Check.md
-[MagiskHide]: https://github.com/mModule/guide_hma/blob/master/Magisk-Hide.md
+[Magisk USNF]: Magisk-SafetyNet-Fix.md
+[PlayIntegrity]: Integrity-Check.md
+[MagiskHide]: Magisk-Hide.md
