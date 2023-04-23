@@ -1,14 +1,16 @@
 # Hide My Applist Guide
 
-This is just a quick guide to hopefully make it a little easier for people new to Hide My Applist.<br>
-
+This is a quick guide to hopefully make it a little easier for people new to Hide My Applist.<br>
 <i>Often referred to as <b>HMA</b> and will be referenced as such in the majority of this guide.</i>
 
 ## Description
 
-In the simplest terms it aims to stop one app detecting a list of other installed apps. Most notably it can often help stop your banking app(s) from detecting if you have any of the apps it considers harmful (ie. is on their apps internal blacklist) - example: the magisk App, or Teamviewer (a bank flagged this as riskware on my device.)
+In the simplest terms it aims to stop one app detecting a list of other installed apps.<br>
+Most notably it can often help stop your banking app(s) from detecting if you have any of the apps it considers harmful. (ie. is on their apps internal blacklist).<br>
+<i>Example: the Magisk App, or Teamviewer (a bank flagged this as riskware on my device).</i>
 
-In Android 13 Google has added extra protections to prevent Applist detection abuse by apps but its early days and apps have various ways to bypass Android/Google protections...
+In Android 13, Google has added extra protections to prevent Applist detection abuse by apps.<br>
+<i>Early days and apps have various ways to bypass Android/Google protections.</i>
 
 ## Requirement(s)
 - Magisk
@@ -42,9 +44,9 @@ In Android 13 Google has added extra protections to prevent Applist detection ab
 >Either Zygisk or Riru version depending on your fork of Magisk.<br>
 For most people on the official Magisk builds, this will be the Zygisk build.
 
->For people on the Magisk Delta build by **huskydg** my current understanding is:
->- if you have **enabled Zygisk** in your Magisk Manager, you should install the **Zygisk** build
->- if you have **disabled Zygisk** in your Magisk Manager, you should install the **Riru** build
+>For people on the Magisk Delta build by <b>huskydg</b> my current understanding is:
+>- If you have <i><b>enabled</b></i> Zygisk in your Magisk Manager, you should install the <b>Zygisk</b> build.
+>- If you have <i><b>disabled</b></i> Zygisk in your Magisk Manager, you should install the <b>Riru</b> build.
 
 <b>Magisk</b>
 >Configuration of Magisk is outside the scope of this guide.<br>
@@ -52,25 +54,33 @@ For most people on the official Magisk builds, this will be the Zygisk build.
 See [Magisk Pages](MagiskTOC.md) for Magisk setup and passing Play Integrity.</i><br>
 
 <b>Testing/Guide Creation Environment</b>
->This guide was first conceived and written and tested on Android 12, then 13, using at the time current versions of all apps and modules.<br>
-<i>Certain steps may not reflect your experience on earlier versions of Android OR app or modules. If you find a difference in your experience, please let us know via the [Issues](https://github.com/mModule/guide_hma/issues) tab, so we can address it, thanks.</i><br>
+>This guide was first conceived, written and tested on Android 12, then updated to Android 13.<br>
+Using the current version of apps and modules at the time of testing.<br>
+
+><i>Certain steps may not reflect your experience on earlier versions of Android, apps or modules.<br>
+If you find a difference in your experience, please let us know via the [Issues](https://github.com/mModule/guide_hma/issues) tab, so we can address it, thanks.</i><br>
 
 ## Known Issue(s)
 - [HMA is still detected by x app](KnownIssues.md#hma-is-still-detected-by-x-detection-app)
-- Android 14 Beta -> Trying current (as of writing 3.1.1) HMA on Android 14 beta will result in an instant reboot (apparently, someone tried it). Do not use on Android 14. Do not raise an issue for beta or untested Android versions here.
----
-
-## Credits
-
-- **ipdev** for content contributions and especially layout, not to mention the new repo
-- **pndwal** for content contributions
-- **zgfg** for content contributions, and for getting me into this HMA thing
-- **John Wu (@topjohnwu)** for all things Magisk.
-- **Dr-TSNG (nullptr)** for HMA
-- **LoveSy**, **vvb2060** and **tehcneko** for Lsposed
-- **72sydney/adrianmmiller** for content contributions, especially any typos you find
+- Android 14 (Beta).<br>
+  - HMA (v3.1.1) will result in an instant reboot on Android 14 beta .<br>
 
 ---
 
 ## Reporting Issues Or Providing Feedback On The Guide
 Please report any issues you may find with the guide above via the [Issues](https://github.com/mModule/guide_hma/issues) tab.
+
+<i>Please do not report an issue with Android or HMA "Beta" version(s) to this guide.</i>
+
+---
+
+## Credits
+
+- 72sydney (adrianmmiller) for guide creation, content contributions and typos.
+- ipdev for content contributions, layout and formatting.
+- pndwal for content contributions.
+- zgfg for content contributions and for getting me into this HMA thing.
+- John Wu and team for all things [Magisk](https://github.com/topjohnwu/Magisk).
+- Dr-TSNG (nullptr) for [HMA](https://github.com/Dr-TSNG/Hide-My-Applist).
+- LoveSy and team for [LSPosed](https://github.com/LSPosed/LSPosed).
+
