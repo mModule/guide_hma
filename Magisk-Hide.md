@@ -36,7 +36,7 @@ I wanted to assume that by the time people made it to trying HMA, they would hav
 
 <ins>Further methods to attempt to increase hiding:</ins>
 
-- A renamed/obfuscated Magisk App (I rename mine 'App', because im lazy and it puts it at the top of the App list when I'm adding it to HMA both during setup and after restoring HMA config after a new ROM flash/factory reset, and HMA installation.)
+- A renamed/obfuscated Magisk App (I rename mine 'App', because im lazy and it puts it at the top of the App list when I'm adding it (using blacklist mode) to HMA both during setup and after restoring HMA config after a new ROM flash/factory reset, and HMA installation.)
 
 ---
 
