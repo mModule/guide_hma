@@ -6,11 +6,11 @@ I wanted to assume that by the time people made it to trying HMA, they would hav
 
 - $\textcolor{orange}{\textsf{Deny List \\& Shamiko via Official Magisk:}}$
  
-  Native Magisk Deny List in Official Magisk should be swapped for better/proper/improved? root hiding via (currently) Shamiko
+  Native Magisk DenyList in Official Magisk should be swapped for proper root hiding via (currently) Shamiko
 
   A Quick guide on Deny List setup:
 
-  - **Before** installing Shamiko, you should add any root senstive apps (banking/security apps etc) to your Deny List (please do NOT add ALL apps)
+  - **Before** installing Shamiko, you should add any root senstive apps (banking/security apps etc) to your Deny List (please do NOT add ALL apps, or all google apps...)
   - **Disable** Enforce Deny List in Magisk Managers settings
   - Download and install Shamiko
   - Reboot
