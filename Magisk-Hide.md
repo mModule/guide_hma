@@ -6,7 +6,7 @@ I wanted to assume that by the time people made it to trying HMA, they would hav
 
 - $\textcolor{orange}{\textsf{Deny List \\& Shamiko via Official Magisk:}}$
  
-  Native Magisk DenyList in Official Magisk should be swapped for proper root hiding via (currently) Shamiko
+  Native Magisk DenyList in Official Magisk (really a tool for deveiopers/ researchers, it will revert/prevent Magisk modifications in selected processes) should be swapped for proper root hiding (ie. hides root traces w/o preventing Magisk modifications, eg injecting into apps zygote using Zygisk based modules). The go-to hiding solution is currently @canyie/LSPpsed teams Shamiko. There are alternatives.
 
   A Quick guide on Deny List setup:
 
