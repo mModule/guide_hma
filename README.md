@@ -59,7 +59,7 @@ If you find a difference in your experience, please let us know via the [Issues]
 ## Known Issue(s)
 - [HMA is still detected by x app](KnownIssues.md#hma-is-still-detected-by-x-detection-app)
 - Android 14 (Beta).<br>
-  - HMA (v3.1.1) will result in an instant reboot on Android 14 beta .<br>
+  - HMA (v3.1.1), according to reports, will result in an instant reboot on Android 14 beta .<br>
 
 ---
 
