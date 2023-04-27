@@ -44,10 +44,6 @@ In Android 13, Google has added extra protections to prevent Applist detection a
 >Either Zygisk or Riru version depending on your fork of Magisk.<br>
 For most people on the official Magisk builds, this will be the Zygisk build.
 
->For people on the Magisk Delta build by <b>huskydg</b> my current understanding is:
->- If you have <i><b>enabled</b></i> Zygisk in your Magisk Manager, you should install the <b>Zygisk</b> build.
->- If you have <i><b>disabled</b></i> Zygisk in your Magisk Manager, you should install the <b>Riru</b> build.
-
 <b>Magisk</b>
 >Configuration of Magisk is outside the scope of this guide.<br>
 <i>A minimal set of instructions have been written for completeness.<br>
