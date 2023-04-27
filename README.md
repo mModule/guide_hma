@@ -10,7 +10,7 @@ Most notably it can often help stop your banking app(s) from detecting if you ha
 <i>Example: the Magisk App, or Teamviewer (a bank flagged this as riskware on my device).</i>
 
 In Android 13, Google has added extra protections to prevent Applist detection abuse by apps.<br>
-<i>Early days and apps have various ways to bypass Android/Google protections.</i>
+<i>Its still early days for Android 13 and apps have various ways to bypass Android/Google protections.</i>
 
 ## Requirement(s)
 - Magisk
