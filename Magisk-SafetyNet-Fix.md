@@ -1,39 +1,40 @@
-# Magisk & Universal SafetyNet Fix Installation
+# Universal SafetyNet Fix
 
-$\textcolor{orange}{\textsf{Magisk:}}$ 
+This module <b>requires</b> <i>Zygisk</i> to be enabled and active in Magisk.<br>
+ ![](image/usnf01.jpg?raw=true)
 
-There are two main variants of Magisk, Offical and Delta, their page links on XDA are below. This guide wont cover the installation of Magisk as it can vary by device, and those installation steps are best handled in the existing XDA threads for Magisk, or on occasion in your devices specific XDA threads on how to root x device. 
+Download (or copy) the safetynet-fix zip file to your device.<br>
+1. Open the Magisk app and switch to the Modules section at bottom of the screen.
+2. Select <i><b>Install from storage</b></i> at the top of screen.
 
-We do not necessarily advocate a preference of Magisk variant, however, if in doubt, it does make sense to at least initially try Magisk Official, if simply because the userbase is larger if you have an issue that needs investigation. Delta *can* provide more effective app hiding methods for problematic (root detection aggressive) apps due to its inclusion of functions since removed from official Magisk, and through additional functions added by its developer HuskyDG. It is possible to switch between Magisk variants, but that is again best handled in the relevant Magisk threads linked.
+ ![](image/usnf02.jpg?raw=true)
 
-**Please Note:** Please do NOT post Magisk issues here, they will be closed without reply.
+1. Select the directory where you stored the safetynet-fix zip file.
+2. Select the zip file to install it.
 
-<ins>Magisk XDA Threads & Download Links:</ins>
-- **Magisk Official:** [here](https://forum.xda-developers.com/t/discussion-magisk-the-age-of-zygisk.4393877/)
-- **Magisk Delta:** [here](https://forum.xda-developers.com/t/discussion-magisk-delta-another-unofficial-third-party-magisk-fork.4460555/)
+ ![](image/usnf03.jpg?raw=true)
 
-$\textcolor{orange}{\textsf{Universal SafetyNet Fix:}}$
+The safetynet-fix module will be installed.<br>
+1. Select <i><b>Reboot</b></i> to reboot your device.
 
-A Magisk module to work around Google's SafetyNet Attestation, and now Integrity Check.
+ ![](image/usnf04.jpg?raw=true)
 
-<ins>Universal SafetyNet Fix Links:</ins>
+After your device restarts, the module will be active and requires no more configuration.<br>
 
-- **XDA Thread:** [here](https://forum.xda-developers.com/t/magisk-module-universal-safetynet-fix-2-3-1.4217823/)
-- **Download Links:**   
-  - Official from **kdrag0n**: [here](https://github.com/kdrag0n/safetynet-fix/releases) 
-  - \* Modded by **Displax** (2.3.1 Mod 2.1 or better): [here](https://github.com/Displax/safetynet-fix/releases)
-
-\* **Please Note: At time of writing (06/02/2023 DD/MM/YYYY)** Kdrag0n's official USNF 2.4.0 does have some issues, if you experience any, please use Displax's 2.3.1 Mod 2.1 (or better) instead.
+To verify your device now passes Play Integrity, please continue to <i>Passing Integrity Check</i>.<br>
+<i>or jump to Shamiko if you wish to skip the integrity check.</i>
 
 ---
 
-Continue to :
-- [Setting Up A Magisk Installation That Hides Root From Apps](Magisk-Hide.md)
+Continue to :<br>
+[<b>Passing Integrity Check</b>](Integrity-Check.md)
 
 Jump to :<br>
-[PlayIntegrity] - [MagiskHide]<br>
+[PlayIntegrity] - [Shamiko]<br>
 
-[<i>Return Home</i>](MagiskTOC.md)
+[<i>Return Home</i>](Magisk.md)
+
+[<i>Return to the HMA Guide</i>](README.md)
 
 <!--List of page links-->
 [HMA Home]: (README.md)
@@ -46,7 +47,7 @@ Jump to :<br>
 [Backup and Restore]: BackupAndRestore.md
 [KnownIssues]: https://github.com/mModule/guide_hma/blob/master/KnownIssues.md
 
-[Magisk Pages]: MagiskTOC.md
-[Magisk USNF]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
+[Magisk]: Magisk.md
+[SafteyNet-Fix]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
 [PlayIntegrity]: https://github.com/mModule/guide_hma/blob/master/Integrity-Check.md
-[MagiskHide]: https://github.com/mModule/guide_hma/blob/master/Magisk-Hide.md
+[Shamiko]: https://github.com/mModule/guide_hma/blob/master/Magisk-Shamiko.md

@@ -1,8 +1,6 @@
-# Setting Up A Magisk Installation That Hides Root From Apps
+# Shamiko
 
 I wanted to assume that by the time people made it to trying HMA, they would have an understanding of Deny List (& Shamiko) setup already, but a request was made to please expand/better explain this section of the guide.
-
-## Method
 
 ### Deny List & Shamiko
  
@@ -26,13 +24,13 @@ I wanted to assume that by the time people made it to trying HMA, they would hav
 
 ---
 
-Continue to :
-
+Continue to :<br>
+[<b>Return Home</b>](Magisk.md)
 
 Jump to :<br>
-[PlayIntegrity] - [MagiskHide]<br>
+[SafetyNet-Fix] - [PlayIntegrity]
 
-[<i>Return Home</i>](MagiskTOC.md)
+[<i>Return to the HMA Guide</i>](README.md)
 
 <!--List of page links-->
 [HMA Home]: (README.md)
@@ -45,7 +43,7 @@ Jump to :<br>
 [Backup and Restore]: BackupAndRestore.md
 [KnownIssues]: https://github.com/mModule/guide_hma/blob/master/KnownIssues.md
 
-[Magisk Pages]: MagiskTOC.md
-[Magisk USNF]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
+[Magisk]: Magisk.md
+[SafetyNet-Fix]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
 [PlayIntegrity]: https://github.com/mModule/guide_hma/blob/master/Integrity-Check.md
-[MagiskHide]: https://github.com/mModule/guide_hma/blob/master/Magisk-Hide.md
+[Shamiko]: https://github.com/mModule/guide_hma/blob/master/Magisk-Shamiko.md

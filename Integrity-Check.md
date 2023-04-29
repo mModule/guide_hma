@@ -1,10 +1,10 @@
-# Passing Integrity Check API Testing</h2></li>
+# Passing Integrity Check API Testing
 
 You can check you are passing this requirement via this app (install, run, and tap Check): 
 
 Play Integrity API Checker: [Google Play Store](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck)
 
-![play integrity check app logo](image/integritylogo.jpg?raw=true)![play integrity check app screenshot1](image/integrity1.jpg?raw=true)![play integrity check app screenshot2](image/integrity2.jpg?raw=true)
+![play integrity check app logo](image/integritylogo.jpg?raw=true) ![play integrity check app screenshot1](image/integrity1.jpg?raw=true) ![play integrity check app screenshot2](image/integrity2.jpg?raw=true)
 
 Or 
 
@@ -25,12 +25,14 @@ Regardless of the method used, on most devices, you will only see, or need to pa
 ---
 
 Continue to :
-
+[<b>Shamiko</b>](Magisk-Shamiko.md)
 
 Jump to :<br>
-[Magisk USNF] - [MagiskHide]<br>
+[SafetyNet-Fix] - [Shamiko]
 
-[<i>Return Home</i>](MagiskTOC.md)
+[<i>Return Home</i>](Magisk.md)
+
+[<i>Return to the HMA Guide</i>](README.md)
 
 <!--List of page links-->
 [HMA Home]: (README.md)
@@ -43,7 +45,7 @@ Jump to :<br>
 [Backup and Restore]: BackupAndRestore.md
 [KnownIssues]: https://github.com/mModule/guide_hma/blob/master/KnownIssues.md
 
-[Magisk Pages]: MagiskTOC.md
-[Magisk USNF]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
+[Magisk]: Magisk.md
+[SafetyNet-Fix]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
 [PlayIntegrity]: https://github.com/mModule/guide_hma/blob/master/Integrity-Check.md
-[MagiskHide]: https://github.com/mModule/guide_hma/blob/master/Magisk-Hide.md
+[Shamiko]: https://github.com/mModule/guide_hma/blob/master/Magisk-Shamiko.md
