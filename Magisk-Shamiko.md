@@ -1,26 +1,60 @@
 # Shamiko
 
-I wanted to assume that by the time people made it to trying HMA, they would have an understanding of Deny List (& Shamiko) setup already, but a request was made to please expand/better explain this section of the guide.
+This module <b>requires</b> <i>Zygisk</i> to be enabled and active in Magisk.<br>
+This module uses Magisk's <i>DenyList</i> for configuration.<br>
 
-### Deny List & Shamiko
- 
-  Native Magisk DenyList in Official Magisk (really a tool for developers/ researchers, it will revert/prevent Magisk modifications in selected processes) should be swapped for proper root hiding (ie. hides root traces w/o preventing Magisk modifications, eg injecting into apps zygote using Zygisk based modules). The go-to hiding solution is currently LSPosed teams Shamiko.
+## Installing the module.
+Download (or copy) the Shamiko zip file to your device.<br>
+1. Open the Magisk app and switch to the Modules section at bottom of the screen.
+2. Select <i><b>Install from storage</b></i> at the top of screen.
 
-  A Quick guide on Deny List setup:
+ ![](image/lsp01.jpg?raw=true)
 
-  - **Before** installing Shamiko, you should add any root senstive apps (banking/security apps etc) to your Deny List (please do NOT add ALL apps, or all google apps...)
-  **Note:** These apps will generally also be the ones you will add to HMA's Blacklist, **if** using Blacklist Mode
-  - **Disable** Enforce Deny List in Magisk Managers settings
-  - Download and install Shamiko
-  - Reboot
+1. Select the directory where you stored the Shamiko zip file.
+2. Select the zip file to install it.
 
-  **Please Note:**  Methods used to pass Integrity Check, and for extra 'root-trace' hiding, and therefore referenced modules like Shamiko, may change at any time, so please visit and watch the following XDA threads:
-   - **Universal SafetyNet Fix:** https://forum.xda-developers.com/t/magisk-module-universal-safetynet-fix-2-3-1.4217823/
-   - **Magisk - The Age Of Zygisk:** https://forum.xda-developers.com/t/discussion-magisk-the-age-of-zygisk.4393877/
+ ![](image/lsp02.jpg?raw=true)
 
-## Further methods to attempt to increase hiding
+The Shamiko module will be installed.<br>
+1. Select <i><b>Reboot</b></i> to reboot your device.
 
-- A renamed/obfuscated Magisk App (I rename mine 'App', because im lazy and it puts it at the top of the App list when I'm adding it (using blacklist mode) to HMA both during setup and after restoring HMA config after a new ROM flash/factory reset, and HMA installation.)
+ ![](image/lsp03.jpg?raw=true)
+
+After your device restarts, the module will be active.<br>
+
+## Configuration.
+The configuration is set using Magisk's DenyList.<br>
+<i>Note: This module requires <b>Enforce Denylist</b> to be turned <b>off</b>.</i>
+
+Select settings (gear icon on the top line).
+
+ ![](image/magisk01.jpg?raw=true)
+
+Scroll down to <i>Configure DenyList</i>.
+
+ ![](image/magisk02.jpg?raw=true)
+
+Add the apps you need to Magisk's DenyList.
+
+ ![](image/magisk03.jpg?raw=true)
+
+You should add root sensitive apps (banking/security apps etc) to the DenyList.<br>
+  <i><b>Note:</b> These apps will generally also be the ones you will add to HMA's Blacklist, <b>if</b> using Blacklist Mode.<br>
+  Do <b>NOT</b> add all apps, or even all google apps.<br>
+  <b>Only add what is necessary.</b></i>
+
+---
+
+### Further methods to (attempt) increase hiding
+
+A renamed/obfuscated Magisk App.<br>
+  <i>I rename mine 'App', because i am lazy and it puts it at the top of the App list when I'm adding it (using blacklist mode) to HMA both during setup and after restoring HMA config after a new ROM flash/factory reset, and HMA installation.</i>
+
+<b>Note:</b><br>
+Methods used to pass Play Integrity and for extra 'root-trace' hiding, therefore referenced modules like Shamiko, may change at any time.<br>
+Please visit and watch the following XDA threads:
+   - [Universal SafetyNet Fix](https://forum.xda-developers.com/t/magisk-module-universal-safetynet-fix-2-3-1.4217823)
+   - [Magisk - The Age Of Zygisk](https://forum.xda-developers.com/t/discussion-magisk-the-age-of-zygisk.4393877)
 
 ---
 
