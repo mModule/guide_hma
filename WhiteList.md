@@ -13,11 +13,7 @@ On the Home tab, tap **App Manage**
 On the following screen, you'll see a list of all your apps, select any form which you want to hide other apps by tapping them, one at a time.
 
 ![](image/wl02.jpg?raw=true)
-
-
-
-
-
+hhhh
 This will normally be:
   - **Banking apps**
   - Any "detection" apps that look for applist (Momo doesn't)(see list in [Testing HMA](TestHMA.md) page for common detection apps)
