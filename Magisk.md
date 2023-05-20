@@ -12,11 +12,11 @@ This is done by using two modules.<br>
 SaftyNet-Fix to pass Play Integrity and Shamiko to hide root from applications that you choose.<br>
 
 Note:<br>
->This is not to disparage users from using other variants (forks) of Magisk.<br>
+>This is not to discourage use of or disparage those who use other variants (forks) of Magisk or alternative integrity verdict or root hiding solutions.<br>
 >Alpha and Delta, have been appreciated and served their purpose, particularly in the gap period where MagiskHide (the original root hiding method) was removed, and an alternate was found.<br>
 >As there are often rapid changes in Alpha/Delta forks, a decision was made for simplicty's sake, to concentrate on using the official Magisk build(s) in this brief guide.<br>
 
-This guide will not cover the installation of Magisk as it can vary greatly by device.<br>
+This guide will not cover the installation of Magisk as that can vary greatly with device or OS.<br>
 Installation steps are best handled in the existing XDA threads for Magisk, or on occasion in your devices specific XDA threads on how to root x device.<br>
 
 <i>For more information on installing Magisk, current issues and support, please see the xda-developers links below.</i><br>
