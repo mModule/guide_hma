@@ -20,10 +20,12 @@ Selecting root, HMA and lsposed apps...
 
 On the following screen, you'll see a list of all your apps, select the following, by tapping to tick them:
 
-- **Magisks renamed (hidden) app** - mine's always App (because as i said, im lazy and its easy to add)
+- **Magisks renamed (hidden) app** - mine's always App (because as i said, im lazy and its easy to add)*
 - Any other root apps or apps simply related to root or custom modification etc. (that banks may flag as security risks, indicators of custom mods or compromised runtime environment). Environment checking apps like Momo are an example. 
 - **HMA** - obviously
 - Any other Xsposed/LSposed apps
+
+*Nb. Anytime you take Restore the Magisk app option and then Hide the Magisk app again you'll need to re-add it as, while the old randomised package name is retained in HMA, you will now be using a new one...
 
 When youre done, tap the back navigation key, swipe back or tap the back arrow in top left to return to main HMA screen.
 
