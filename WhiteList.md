@@ -14,9 +14,14 @@ On the following screen, you'll see a list of all your apps, select any form whi
 
 ![](image/wl02.jpg?raw=true)
 
-  This will normally be:
+
+
+
+
+This will normally be:
   - **Banking apps**
   - Any "detection" apps that look for applist (Momo doesn't)(see list in [Testing HMA](TestHMA.md) page for common detection apps)
+i.e. Any apps which complain about root or are sensitive to other apps for their own reasons (eg. the app might compromise security / code execution environment) are a candidate for adding here.
   
   For each app you add, do the following:
   - Tap the toggle to the right of **Enable Hide** to enable hiding
