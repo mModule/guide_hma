@@ -2,6 +2,12 @@
 
 This module <b>requires</b> <i>Zygisk</i> to be enabled and active in Magisk.<br>
 
+From the Magisk Home tab:
+- Select Settings (gear icon on the top line).
+- Next scroll down to the Magisk section, and make sure Zygisk is enabled
+
+![](image/magiskmainsettings.jpg?raw=true) ![](image/magiskzygiskenabled.jpg?raw=true)
+
 This module uses Magisk's <i>DenyList</i> for configuration only as a convenient means for selecting processes for inclusion. Note that Denylist will <u>actually</u> be disabled and its 'hijacked' list will now really function as a 'Hidelist'.
 
 This is important to understand since the functions or a Hidelist and Magisk's Denylist are very different; Hidelist modules hide many traces of root and device modification not handled by Denylist, while Denylist simply denies/reverts MAGISK modifications in listed processes (and will therefore actually break modules that inject into such processes)
@@ -12,35 +18,42 @@ Download (or copy) the Shamiko zip file to your device.<br>
 1. Open the Magisk app and switch to the Modules section at bottom of the screen.
 2. Select <i><b>Install from storage</b></i> at the top of screen.
 
- ![](image/lsp01.jpg?raw=true)
+ ![](image/shamiko01.jpg?raw=true)
 
 1. Select the directory where you stored the Shamiko zip file.
 2. Select the zip file to install it.
 
- ![](image/lsp02.jpg?raw=true)
+ ![](image/shamiko02.jpg?raw=true)
 
 The Shamiko module will be installed.<br>
 1. Select <i><b>Reboot</b></i> to reboot your device.
 
- ![](image/lsp03.jpg?raw=true)
+ ![](image/magiskmodulereboot.jpg?raw=true)
 
 After your device restarts, the module will be active.<br>
 
+  ![](image/shamiko03.jpg?raw=true)
+  
+  
 ## Configuration.
 The configuration is set using Magisk's DenyList.<br>
 <i>Note: This module requires <b>Enforce Denylist</b> to be turned <b>off</b>.</i>
 
 Select settings (gear icon on the top line).
 
- ![](image/magisk01.jpg?raw=true)
+ ![](image/magiskmainsettings.jpg?raw=true)
 
-Scroll down to <i>Configure DenyList</i>.
+Scroll down to the Magisk section
 
- ![](image/magisk02.jpg?raw=true)
+1. You should of course already have Zygisk enabled
+2. Make sure Enforce DenyList is disabled
+3. Tap Configure DenyList
+
+ ![](image/shamiko04.jpg?raw=true)
 
 Add the apps you need to Magisk's DenyList.
 
- ![](image/magisk03.jpg?raw=true)
+ ![](image/shamiko05.jpg?raw=true)
 
 You should add root sensitive apps (banking/security apps etc) to the DenyList.<br>
   <i><b>Note:</b> These apps will generally also be the ones you will add to HMA's Blacklist, <b>if</b> using Blacklist Mode.<br>
