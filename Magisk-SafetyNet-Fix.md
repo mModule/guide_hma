@@ -1,25 +1,29 @@
 # Universal SafetyNet Fix
 
 This module <b>requires</b> <i>Zygisk</i> to be enabled and active in Magisk.<br>
- ![](image/usnf01.jpg?raw=true)
+
+![](image/magiskmainsettings.jpg?raw=true) ![](image/magiskzygiskenabled.jpg?raw=true)
 
 Download (or copy) the safetynet-fix zip file to your device.<br>
+
 1. Open the Magisk app and switch to the Modules section at bottom of the screen.
 2. Select <i><b>Install from storage</b></i> at the top of screen.
 
- ![](image/usnf02.jpg?raw=true)
+ ![](image/usnf01.jpg?raw=true)
 
 1. Select the directory where you stored the safetynet-fix zip file.
 2. Select the zip file to install it.
 
- ![](image/usnf03.jpg?raw=true)
+ ![](image/usnf02.jpg?raw=true)
 
 The safetynet-fix module will be installed.<br>
 1. Select <i><b>Reboot</b></i> to reboot your device.
 
- ![](image/usnf04.jpg?raw=true)
+ ![](image/magiskmodulereboot.jpg?raw=true)
 
 After your device restarts, the module will be active and requires no more configuration.<br>
+
+ ![](image/usnf03.jpg?raw=true)
 
 To verify your device now passes Play Integrity, please continue to <i>Passing Integrity Check</i>.<br>
 <i>or jump to Shamiko if you wish to skip the integrity check.</i>
