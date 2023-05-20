@@ -46,7 +46,7 @@ For most people on the official Magisk builds, this will be the Zygisk build.
 
 <b>Magisk</b>
 >Configuration of Magisk is outside the scope of this guide.<br>
-<i>A minimal set of instructions have been written for completeness.<br>
+<i>A minimal set of instructions has been written for completeness.<br>
 See [Magisk Configuration](Magisk.md) for Magisk setup and passing Play Integrity.</i><br>
 
 <b>Testing/Guide Creation Environment</b>
