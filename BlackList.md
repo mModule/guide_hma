@@ -1,6 +1,6 @@
 # Using Blacklist mode
 
-You should be on the HMA Home tab at this point, if not, please open HMA from your app drawer
+You should be on the HMA Home tab at this point, if not, please open HMA from your app drawer.
 
 ## Template Creation
 
@@ -12,7 +12,7 @@ On the next screen tap **Create A Blacklist Template**
 
 ![](image/HMA05.jpg?raw=true)
 
-On the following screen, type **root** into the **Template Name** box, then tap **Edit List**, just below and to the right
+On the following screen, type **root** into the **Template Name** box, then tap **Edit List**, just below and to the right.
 
 ![](image/HMA06.jpg?raw=true)
 
@@ -20,11 +20,12 @@ Selecting root, HMA and lsposed apps...
 
 On the following screen, you'll see a list of all your apps, select the following, by tapping to tick them:
 
-- **Magisks renamed (hidden) app** - mines always App (because as i said, im lazy and its easy to add)
+- **Magisks renamed (hidden) app** - mine's always App (because as i said, im lazy and its easy to add)
+- Any other root apps or apps simply related to root or custom modification etc. (that banks may flag as security risks, indicators of custom mods or compromised runtime environment). Environment checking apps like Momo are an example. 
 - **HMA** - obviously
-- Any Xsposed/LSposed apps
+- Any other Xsposed/LSposed apps
 
-When youre done, tap the back navigation key, swipe back or tap the back arrow in top left to return to main HMA screen
+When youre done, tap the back navigation key, swipe back or tap the back arrow in top left to return to main HMA screen.
 
 ![](image/HMA07.jpg?raw=true)
 
@@ -34,15 +35,14 @@ From the main HMA Settings menu, tap **App Manage**
 
 ![](image/HMA08.jpg?raw=true)
 
-On the following screen, you'll see a list of all your apps, select any which you want to hide root, HMA and any xposed/lsposed modules from, by tapping to tick them
+On the following screen, you'll see a list of all your apps, select any which you want to hide root/mod related apps, HMA and other xposed/lsposed modules from by tapping to tick them.
 
   This will normally be:
   
-  - **Google Pay/Wallet**
   - **Banking apps**
   - Any "detection" apps (see list in [Testing HMA](TestHMA.md) page for common detection apps)
 
-  i.e. Any apps which complain about root or other sensitive app detection are a candidate for adding here.
+  i.e. Any apps which complain about root or are sensitive to other apps for their own reasons (eg. the app might compromise security / code execution environment) are a candidate for adding here.
 
   For each app you add, do the following:
    
@@ -62,9 +62,9 @@ On the following screen, you'll see a list of all your apps, select any which yo
 
   ![](image/HMA11.jpg?raw=true)
 
-  When youre done, tap back navigation key, swipe back or tap the back arrow in top left to return to app list, and repeat the above few steps for each app you wish to hide root, HMA and any xposed/lsposed modules from
+  When youre done, tap back navigation key, swipe back or tap the back arrow in top left to return to app list, and repeat the above few steps for each app you wish to hide root-related apps, HMA and other xposed/lsposed modules from.
 
-  When youre done selecting all apps you wish to hide root, HMA and any xposed/lsposed modules from, tap the back navigation key, swipe back or tap the back arrow in top left to return to main HMA screen
+  Now tap the back navigation key, swipe back or tap the back arrow in top left to return to main HMA screen
    
 ## Finalizing And 1st Boot
 
