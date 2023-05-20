@@ -17,17 +17,17 @@ Note: If you do decide to change modes, please remember to clear data for any of
 
 ## Whitelist mode (no template)
 
-(Generally) Uses enabling/toggling of Hide, Whitelist Work Mode and Exclude System Apps per app you wish to (not) hide from other apps
+(Generally) Uses enabling/toggling of Hide, Whitelist Work Mode and Exclude System Apps, ie. apps you wish to keep visible/accessible to other apps
 
 
 Each mode has its pros and cons. This table aims to simply those. 
 
 ||Blacklist|Whitelist (no template)|
 |---|---|---|
-| Setup (Template Manager)|Y|N|
+| Setup (Template Manage)|Y|N|
 | Setup (App Manage)|Y|Y|
-|Maintenance (new lsposed module install)|Y - Template modification ONLY|N|
-|Maintenance (new root sensitive app install)|Y - App Manage selection ONLY|N|
+|Maintenance (new lsposed module/root related app install)|Y - Add in an existing Template only|N|
+|Maintenance (new root sensitive app install)|Y - Configure in App Manage|Y - Configure in App Manage|
 
 
 ### A quick word on Whitelist (with Template) mode
