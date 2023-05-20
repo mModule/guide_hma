@@ -28,6 +28,7 @@ Each mode has its pros and cons. This table aims to simply those.
 | Setup (App Manage)|Y|Y|
 |Maintenance (new lsposed module/root related app* install)|Y - Add in an existing Template only|N|
 |Maintenance (new root sensitive app install)|Y - Configure in App Manage|Y - Configure in App Manage|
+
 *Nb. Anytime you take Restore the Magisk app option and then Hide the Magisk app again you'll need to re-add it as, while the old randomised package name is retained in HMA, you will now be using a new one...
 
 ### A quick word on Whitelist (with Template) mode
