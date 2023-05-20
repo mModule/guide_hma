@@ -1,7 +1,8 @@
 # Shamiko
 
 This module <b>requires</b> <i>Zygisk</i> to be enabled and active in Magisk.<br>
-This module uses Magisk's <i>DenyList</i> for configuration.<br>
+This module uses Magisk's <i>DenyList</i> for configuration as a convenient means of selecting processes for inclusion. Note that Denylist will actually be disabled and its 'hijacked' list now actually functions as a 'Hidelist'. This is important to understand since the functions or a Hidelist and Denylist are very different; Hidelist modules hide many traces of root and device modification not handled by Denylist while Denylist simply denies/reverts MAGISK modifications in listed processes (and will therefore actually break modules that inject into such processes)
+including superuser access/grants.<br>
 
 ## Installing the module.
 Download (or copy) the Shamiko zip file to your device.<br>
@@ -40,7 +41,7 @@ Add the apps you need to Magisk's DenyList.
 
 You should add root sensitive apps (banking/security apps etc) to the DenyList.<br>
   <i><b>Note:</b> These apps will generally also be the ones you will add to HMA's Blacklist, <b>if</b> using Blacklist Mode.<br>
-  Do <b>NOT</b> add all apps, or even all google apps.<br>
+  Do <b>NOT</b> add all apps, or even all google apps. Indiscriminate use can break functions like webview...<br>
   <b>Only add what is necessary.</b></i>
 
 ---
