@@ -2,6 +2,10 @@
 
 This module <b>requires</b> <i>Zygisk</i> to be enabled and active in Magisk.<br>
 
+From the Magisk Home tab:
+- Select Settings (gear icon on the top line).
+- Next scroll down to the Magisk section, and make sure Zygisk is enabled
+
 ![](image/magiskmainsettings.jpg?raw=true) ![](image/magiskzygiskenabled.jpg?raw=true)
 
 Download (or copy) the safetynet-fix zip file to your device.<br>
