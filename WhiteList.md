@@ -1,8 +1,8 @@
 # Using Whitelist mode
 
-You should be on the HMA Home tab at this point, if not, please open HMA from your app drawer
+You should be on the HMA Home tab at this point, if not, please open HMA from your app drawer.
 
-Unlike the blacklist method, in this whitelist method doesnt require creating a template, just configuring apps
+Unlike the blacklist method, this whitelist method doesnt require creating a template, just configuring apps.
 
 ## Configuring Apps
 
@@ -10,19 +10,18 @@ On the Home tab, tap **App Manage**
 
 ![](image/wl01.jpg?raw=true)
 
-On the following screen, you'll see a list of all your apps, select any which you want to make visible to other apps, by tapping them, one at a time
+On the following screen, you'll see a list of all your apps, select any form which you want to hide other apps by tapping them, one at a time.
 
 ![](image/wl02.jpg?raw=true)
 
   This will normally be:
-  - **Google Pay/Wallet**
   - **Banking apps**
-  - Any "detection" apps (apart from Momo)(see list in [Testing HMA](TestHMA.md) page for common detection apps)
+  - Any "detection" apps that look for applist (Momo doesn't)(see list in [Testing HMA](TestHMA.md) page for common detection apps)
   
   For each app you add, do the following:
   - Tap the toggle to the right of **Enable Hide** to enable hiding
   - Tap the toggle to the right of **Work Mode** to enable Whitelist
-  - Tap the toggle to the right of **Exclude System Apps**
+  - Tap the toggle to the right of **Exclude System Apps** to exclude as recommended
   - Tap the back navigation key, swipe back (if using gesture navigation) or tap the back arrow in top left to return to app list, and repeat the above few steps for each app you wish to add
 
   ![](image/wl03.jpg?raw=true)
