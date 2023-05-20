@@ -1,7 +1,10 @@
 # Shamiko
 
 This module <b>requires</b> <i>Zygisk</i> to be enabled and active in Magisk.<br>
-This module uses Magisk's <i>DenyList</i> for configuration as a convenient means of selecting processes for inclusion. Note that Denylist will actually be disabled and its 'hijacked' list now actually functions as a 'Hidelist'. This is important to understand since the functions or a Hidelist and Denylist are very different; Hidelist modules hide many traces of root and device modification not handled by Denylist while Denylist simply denies/reverts MAGISK modifications in listed processes (and will therefore actually break modules that inject into such processes)
+
+This module uses Magisk's <i>DenyList</i> for configuration only as a convenient means for selecting processes for inclusion. Note that Denylist will <u>actually</u> be disabled and its 'hijacked' list will now really function as a 'Hidelist'.
+
+This is important to understand since the functions or a Hidelist and Magisk's Denylist are very different; Hidelist modules hide many traces of root and device modification not handled by Denylist, while Denylist simply denies/reverts MAGISK modifications in listed processes (and will therefore actually break modules that inject into such processes)
 including superuser access/grants.<br>
 
 ## Installing the module.
