@@ -1,6 +1,6 @@
 # HMA Backup & Restore
 
-To save recreating the root blacklist template and apps list, you can backup HMA's config and restore it after a clean ROM flash or post factory reset
+To save time on future installs, you can backup HMA's config and restore it after a clean ROM flash or post factory reset
 
 Backup:
 
@@ -21,6 +21,7 @@ Restore:
      - Tap <b>root</b> template.
      - Tap <b>Edit List</b> (the first one) to the right of <b>X Apps Invisible</b>.
      - Scroll to find your renamed Magisk Managers app and select it.
+     
  - Tap the back navigation key, swipe back or tap the back arrow in top left to return to main HMA screen.
  - Close out from HMA.
  - Reboot your device to activate HMA and the configuration you just restored.
