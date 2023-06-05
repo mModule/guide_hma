@@ -22,35 +22,37 @@ On the next screen tap <b>Create A Blacklist Template</b>
 
 On the following screen, type <b>PlayStore</b> into the <b>Template Name</b> box, then tap <b>Edit List</b>, just below and to the right.
 
-![](image/HFS01.png?raw=true)
+![](image/HFS01.jpg?raw=true)
 
 Select the app(s) you want to hide from PlayStore.<br>
 
 When your done, tap the back navigation key, swipe back or tap the back arrow in top left to return to main HMA screen.
 
-![](image/HFS02.png?raw=true)
-
+![](image/HFS02.jpg?raw=true)
 
 From the main HMA Settings menu, tap <b>App Manage</b>.
 
 ![](image/HMA08.jpg?raw=true)
 
 On the following screen, you'll see a list of all your apps.<br>
-Scroll down to <b>Google Play Store</b>.<br>
+Scroll down to <b>Google Play Store</b> and tap on it.<br>
+
+![](image/HFS03.jpg?raw=true)
+
   - Tap the toggle to the right of <b>Enable Hide</b> to enable hiding.
   - Under <b>Template Config</b> (toward bottom) tap <b>Using 0 Template</b>
 
-  ![](image/HFS03.png?raw=true)
+  ![](image/HFS04.jpg?raw=true)
 
   On the popup window that appears:<br>
   - Tap the checkbox next to <b>PlayStore</b> to select the PlayStore template.
   - Tap <b>OK</b> to close the popup window.
 
-  ![](image/HFS04.png?raw=true)
+  ![](image/HFS05.jpg?raw=true)
 
   You should now see a screen similar to this.
 
-  ![](image/HFS05.png?raw=true)
+  ![](image/HFS06.jpg?raw=true)
 
   Now tap the back navigation key, swipe back or tap the back arrow in top left to return to main HMA screen.<br>
 
