@@ -1,12 +1,12 @@
 # Hiding from Store
 
-Besides hiding root from sensative (secure) apps, you can also hide installed apps from an app store.<br>
-<i>This is conveant if you have an app installed that is:<br>
-- Installed from a differernt app store.
+Besides hiding root from sensitive (secure) apps, you can also hide installed apps from an app store.<br>
+<i>This is convenient if you have an app installed that is:<br>
+- Installed from a different app store.
 - Modified.
 - Older version.<br></i>
 
-This is an example of hidding app(s) from Google Play Store.<br>
+This is an example of hiding app(s) from Google Play Store.<br>
 
 ## Create a Blacklist Template.
 
@@ -58,7 +58,7 @@ Scroll down to <b>Google Play Store</b> and tap on it.<br>
 
   <b>Please Note:</b>
   - Any time you make a configuration change in HMA, you might need to reboot for it to take effect.<br>
-  - You can apply the same PlayStore template or create aditianl templates an apply them to Samsung's app store, Amazon's app store...<br> 
+  - You can apply the same PlayStore template or create additional templates and apply them to Samsung's app store, Amazon's app store...<br> 
 
 ---
 
@@ -77,6 +77,7 @@ Jump to :<br>
 [Compare HMA Blacklist vs Whitelist Methods]: BlacklistvsWhitelist.md
 [Configure BlackList Mode]: BlackList.md
 [Configure WhiteList Mode]: WhiteList.md
+[Hide From Store]: PlayStore.md
 [Test HMA]: TestHMA.md
 [Backup and Restore]: BackupAndRestore.md
 [Known Issues]: KnownIssues.md
