@@ -42,7 +42,7 @@ If you experience any, please use Displax's 2.3.1 Mod 2.1 (or better) instead.</
 
 ## Pages (How To)
 - [SafetyNet Fix](Magisk-SafetyNet-Fix.md)
-- [Integrity Check](Integrity-Check.md)
+- [Integrity Check](Magisk-Integrity.md)
 - [Shamiko](Magisk-Shamiko.md)
 
 ---
@@ -52,9 +52,10 @@ If you experience any, please use Displax's 2.3.1 Mod 2.1 (or better) instead.</
 ---
 
 ### xda-developers
-- [Magisk Magisk General Support / Discussion:](https://forum.xda-developers.com/t/magisk-general-support-discussion.3432382)
-- [[Discussion] Magisk - The Age of Zygisk.:](https://forum.xda-developers.com/t/discussion-magisk-the-age-of-zygisk.4393877)
-- [MAGISK MODULE ❯ Universal SafetyNet Fix 2.4.0:](https://forum.xda-developers.com/t/magisk-module-universal-safetynet-fix-2-4-0.4217823)
+- [Magisk Magisk General Support / Discussion](https://forum.xda-developers.com/t/magisk-general-support-discussion.3432382)
+- [[Discussion] Magisk - The Age of Zygisk.](https://forum.xda-developers.com/t/discussion-magisk-the-age-of-zygisk.4393877)
+- [MAGISK MODULE ❯ Universal SafetyNet Fix 2.4.0](https://forum.xda-developers.com/t/magisk-module-universal-safetynet-fix-2-4-0.4217823)
+- [[MODULE] [MOD] Universal SafetyNet Fix](https://forum.xda-developers.com/t/module-mod-universal-safetynet-fix.4553699)
 
 
 ## Credits

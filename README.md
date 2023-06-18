@@ -12,6 +12,12 @@ Most notably it can often help stop your banking app(s) from detecting if you ha
 In Android 13, Google has added extra protections to prevent Applist detection abuse by apps.<br>
 <i>Its still early days for Android 13 and apps have various ways to bypass Android/Google protections.</i>
 
+Besides hiding root from sensitive (secure) apps, you can also hide installed apps from an app store.<br>
+<i>This is convenient if you have an app installed that is:<br>
+- Installed from a different app store.
+- Modified.
+- Older version.<br></i>
+
 ## Requirement(s)
 - Magisk
   - <i>Preferably a Magisk installation (setup) that passes Play Integrity.</i>
@@ -24,10 +30,11 @@ In Android 13, Google has added extra protections to prevent Applist detection a
 
 ## Pages (How to)
 - [Install LSPosed](Install-LSPosed.md)
-- [Install HMA](Install.md)
+- [Install HMA](Install-HMA.md)
 - [Compare HMA Blacklist vs Whitelist Modes](BlacklistvsWhitelist.md)
 - [Configure HMA using the Blacklist Mode](BlackList.md)
 - [Configure HMA using the Whitelist Mode](WhiteList.md)
+- [Hiding an app from Store](PlayStore.md)
 - [Testing HMA](TestHMA.md)
 - [Backup and Restore HMA settings](BackupAndRestore.md)
 
@@ -49,6 +56,7 @@ For most people on the official Magisk builds, this will be the Zygisk build.
 <i>A minimal set of instructions has been written for completeness.<br>
 See [Magisk Configuration](Magisk.md) for Magisk setup and passing Play Integrity.</i><br>
 
+<!--
 <b>Testing/Guide Creation Environment</b>
 >This guide was first conceived, written and tested on Android 12, then updated to Android 13.<br>
 Using the current version of apps and modules at the time of testing.<br>
@@ -60,12 +68,12 @@ If you find a difference in your experience, please let us know via the [Issues]
 - [HMA is still detected by x app](KnownIssues.md#hma-is-still-detected-by-x-detection-app)
 - Android 14 (Beta).<br>
   - HMA (v3.1.1), according to reports, will result in an instant reboot on Android 14 beta .<br>
+-->
 
 ---
 
-## Reporting Issues Or Providing Feedback On The Guide
-Please report any issues you may find with the guide above via the [Issues](https://github.com/mModule/guide_hma/issues) tab.
-
+## Providing Feedback On The Guide
+Please report any issue(s) with the guide or enhancement via the [Issues](https://github.com/mModule/guide_hma/issues) tab.<br>
 <i>Please do not report an issue with Android or HMA "Beta" version(s) to this guide.</i>
 
 ---
@@ -79,4 +87,3 @@ Please report any issues you may find with the guide above via the [Issues](http
 - John Wu and team for all things [Magisk](https://github.com/topjohnwu/Magisk).
 - Dr-TSNG (nullptr) for [HMA](https://github.com/Dr-TSNG/Hide-My-Applist).
 - LoveSy and team for [LSPosed](https://github.com/LSPosed/LSPosed).
-

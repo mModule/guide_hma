@@ -29,33 +29,33 @@ Each mode has its pros and cons. This table aims to simply those.
 |Maintenance (new lsposed module/root related app install)|Y - Add in an existing Template only*|N|
 |Maintenance (new root sensitive app install)|Y - Configure in App Manage|Y - Configure in App Manage|
 
-*Nb. Anytime you take Restore the Magisk app option and then Hide the Magisk app again you'll need to re-add it as, while the old randomised package name is retained in HMA, you will now be using a new one...
+<i>Anytime you take Restore the Magisk app option and then Hide the Magisk app again you'll need to re-add it as, while the old randomised package name is retained in HMA, you will now be using a new one...</i>
 
 ### A quick word on Whitelist (with Template) mode
 It's possible to also have a setup whereby you use a whitelist with a template, containing those apps you wish other apps to be able to find, but so far no one seems to have found a compelling reason to use this....so of course the moment this goes live, i'll get an email...
 
 ---
 
+[<b>Return to <i>Installing and activating HMA</i></b>](Install-HMA.md)<br>
+
 Continue to :<br>
-[<b>Return to <i>Installing and activating HMA</i></b>](Install.md)<br>
+[<b>Configure Blacklist Mode</b>](BlackList.md)<br>
+
+[<b>Configure Whitelist Mode</b>](WhiteList.md)<br>
 
 Jump to :<br>
-[Install LSPosed] - [Install HMA] - [Configure BlackList Mode] - [Configure WhiteList Mode] - [Test HMA] - [Backup and Restore]<br>
+[Install LSPosed] - [Install HMA] - [Hide from Store] - [Testing HMA] - [Backup and Restore]<br>
 
 [<i>Return Home</i>](README.md)
 
 <!--List of page links-->
 [HMA Home]: README.md
 [Install LSPosed]: Install-LSPosed.md
-[Install HMA]: Install.md
+[Install HMA]: Install-HMA.md
 [Compare HMA Blacklist vs Whitelist Modes]: BlacklistvsWhitelist.md
-[Configure BlackList Mode]: BlackList.md
-[Configure WhiteList Mode]: WhiteList.md
-[Test HMA]: TestHMA.md
+[Configure Blacklist Mode]: BlackList.md
+[Configure Whitelist Mode]: WhiteList.md
+[Hide from Store]: PlayStore.md
+[Testing HMA]: TestHMA.md
 [Backup and Restore]: BackupAndRestore.md
-[Known Issues]: KnownIssues.md
-
-[Magisk Pages]: MagiskTOC.md
-[Magisk USNF]: Magisk-SafetyNet-Fix.md
-[PlayIntegrity]: Integrity-Check.md
-[MagiskHide]: Magisk-Hide.md
+[KnownIssues]: KnownIssues.md

@@ -66,23 +66,18 @@ Continue to :<br>
 [<b>Testing HMA</b>](TestHMA.md)<br>
 
 Jump to :<br>
-[Install LSPosed] - [Install HMA] - [Configure BlackList Mode] - [Configure WhiteList Mode] - [Backup and Restore]<br>
+[Install LSPosed] - [Install HMA] - [Compare HMA Blacklist vs Whitelist Modes] - [Configure Blacklist Mode] - [Configure Whitelist Mode] - [Backup and Restore]<br>
 
 [<i>Return Home</i>](README.md)
 
 <!--List of page links-->
 [HMA Home]: README.md
 [Install LSPosed]: Install-LSPosed.md
-[Install HMA]: Install.md
-[Compare HMA Blacklist vs Whitelist Methods]: BlacklistvsWhitelist.md
-[Configure BlackList Mode]: BlackList.md
-[Configure WhiteList Mode]: WhiteList.md
-[Hide From Store]: PlayStore.md
-[Test HMA]: TestHMA.md
+[Install HMA]: Install-HMA.md
+[Compare HMA Blacklist vs Whitelist Modes]: BlacklistvsWhitelist.md
+[Configure Blacklist Mode]: BlackList.md
+[Configure Whitelist Mode]: WhiteList.md
+[Hide from Store]: PlayStore.md
+[Testing HMA]: TestHMA.md
 [Backup and Restore]: BackupAndRestore.md
-[Known Issues]: KnownIssues.md
-
-[Magisk Pages]: MagiskTOC.md
-[Magisk USNF]: Magisk-SafetyNet-Fix.md
-[PlayIntegrity]: Integrity-Check.md
-[MagiskHide]: Magisk-Hide.md
+[KnownIssues]: KnownIssues.md

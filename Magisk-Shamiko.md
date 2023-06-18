@@ -84,17 +84,7 @@ Jump to :<br>
 [<i>Return to the HMA Guide</i>](README.md)
 
 <!--List of page links-->
-[HMA Home]: (README.md)
-[Install LSPosed]: Install-LSPosed.md
-[Install HMA]: Install.md
-[Compare HMA Blacklist vs Whitelist Methods]: BlacklistvsWhitelist.md
-[Configure BlackList]: BlackList.md
-[Configure WhiteList]: WhiteList.md
-[Test HMA]: TestHMA.md
-[Backup and Restore]: BackupAndRestore.md
-[KnownIssues]: https://github.com/mModule/guide_hma/blob/master/KnownIssues.md
-
 [Magisk]: Magisk.md
-[SafetyNet-Fix]: https://github.com/mModule/guide_hma/blob/master/Magisk-SafetyNet-Fix.md
-[PlayIntegrity]: https://github.com/mModule/guide_hma/blob/master/Integrity-Check.md
-[Shamiko]: https://github.com/mModule/guide_hma/blob/master/Magisk-Shamiko.md
+[PlayIntegrity]: Magisk-Integrity.md
+[SafetyNet-Fix]: Magisk-SafetyNet-Fix.md
+[Shamiko]: Magisk-Shamiko.md

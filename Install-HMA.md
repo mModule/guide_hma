@@ -41,32 +41,28 @@ There are two options for hiding, they are exact opposites of each other.<br>
 If you have not read the differences between BlackList and WhiteList modes, please do so now.<br>
 [Compare HMA Blacklist vs Whitelist Modes]
 
-<i>You can use a mix of both BlackList and WhiteList modes.</i>
+<i>Note: You can use a mix of both BlackList and WhiteList modes.</i>
 
 ---
 
 Continue to :<br>
 [<b>Configure Blacklist Mode</b>](BlackList.md)<br>
-or<br>
+
 [<b>Configure Whitelist Mode</b>](WhiteList.md)<br>
 
 Jump to :<br>
-[Install LSPosed] - [Configure Blacklist Mode]  - [Configure Whitelist Mode] - [Test HMA] - [Backup and Restore]<br>
+[Install LSPosed] - [Configure Blacklist Mode] - [Configure Whitelist Mode] - [Hide from Store] - [Testing HMA] - [Backup and Restore]<br>
 
 [<i>Return Home</i>](README.md)
 
 <!--List of page links-->
 [HMA Home]: README.md
 [Install LSPosed]: Install-LSPosed.md
-[Install HMA]: Install.md
+[Install HMA]: Install-HMA.md
 [Compare HMA Blacklist vs Whitelist Modes]: BlacklistvsWhitelist.md
 [Configure Blacklist Mode]: BlackList.md
 [Configure Whitelist Mode]: WhiteList.md
-[Test HMA]: TestHMA.md
+[Hide from Store]: PlayStore.md
+[Testing HMA]: TestHMA.md
 [Backup and Restore]: BackupAndRestore.md
 [KnownIssues]: KnownIssues.md
-
-[Magisk Pages]: MagiskTOC.md
-[Magisk USNF]: Magisk-SafetyNet-Fix.md
-[PlayIntegrity]: Integrity-Check.md
-[MagiskHide]: Magisk-Hide.md

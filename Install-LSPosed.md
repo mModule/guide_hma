@@ -25,25 +25,22 @@ To access the LSPosed Module Manager, after locating the LSPosed Loaded entry in
 ---
 
 Continue to :<br>
-[<b>Installing HMA</b>](Install.md)<br>
+[<b>Installing HMA</b>](Install-HMA.md)<br>
 
 Jump to :<br>
-[Install HMA] - [Configure BlackList Mode] - [Configure WhiteList Mode] - [Test HMA] - [Backup and Restore]<br>
+[Compare HMA Blacklist vs Whitelist Modes] - [Configure Blacklist Mode] - [Configure Whitelist Mode] - [Hide from Store] - [Testing HMA] - [Backup and Restore]<br>
 
 [<i>Return Home</i>](README.md)
 
 <!--List of page links-->
 [HMA Home]: README.md
 [Install LSPosed]: Install-LSPosed.md
-[Install HMA]: Install.md
+[Install HMA]: Install-HMA.md
 [Compare HMA Blacklist vs Whitelist Modes]: BlacklistvsWhitelist.md
-[Configure BlackList Mode]: BlackList.md
-[Configure WhiteList Mode]: WhiteList.md
-[Test HMA]: TestHMA.md
+[Configure Blacklist Mode]: BlackList.md
+[Configure Whitelist Mode]: WhiteList.md
+[Hide from Store]: PlayStore.md
+[Testing HMA]: TestHMA.md
 [Backup and Restore]: BackupAndRestore.md
-[Known Issues]: KnownIssues.md
+[KnownIssues]: KnownIssues.md
 
-[Magisk Pages]: MagiskTOC.md
-[Magisk USNF]: Magisk-SafetyNet-Fix.md
-[PlayIntegrity]: Integrity-Check.md
-[MagiskHide]: Magisk-Hide.md
