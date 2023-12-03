@@ -41,7 +41,7 @@ i.e. Any apps which complain about root or are sensitive to other apps for their
 
   <b>Please Note:</b>
   - Any time you make a configuration change in HMA, you need to reboot for it to take effect
-  - It can take several minutes on first boot after being configured, for HMA to take effect. Ive noticed this on several ROM flashes. I would wait a good 5 minutes before testing, or opening any apps you have added via HMA after this first initial boot.
+  - It can take several minutes on first boot after being configured, for HMA to take effect. Ive noticed this on several ROM flashes. I would wait a good 5 minutes before testing, or opening any apps you have added via HMA after this first initial boot. On rare occasions it has taken an additonal reboot for me to see HMA take affect, so please try an additional reboot before troubleshooting.
 
 ---
 Continue to :<br>
