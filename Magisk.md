@@ -26,7 +26,7 @@ They will be closed without reply.</b><br>
 
 ## Requirement(s)
 - Magisk
-- Play Integruity Fix (previously Universal SafetyNet Fix (USNF))
+- Play Integrity Fix (previously Universal SafetyNet Fix (USNF))
 - Shamiko
 
 ## Download Links
