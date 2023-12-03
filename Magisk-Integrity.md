@@ -1,25 +1,44 @@
 # Passing Integrity Check API Testing
 
+Currently due to rate limiting of apps that check Integirty, the preferred method of Intgrity Testing is to use Google Play Store
+
+<b>Google Play Store Method</b>:<br>
+
+- Open <b>Google Play Store</b> then Tap <b>Settings</b>
+
+![](image/play_integrity1.jpg?raw=true)
+
+- Then Tap <b>About</b> (at bottom), then Tap <b>Play Store Version</b> 5 times to enable <b>Developer Options</b>
+
+![](image/play_integrity2.jpg?raw=true)
+
+- Tap the <b>General</b> section (at top) then Tap <b>Developer Options</b> (at bottom)
+
+![](image/play_integrity3.jpg?raw=true)
+
+- Tap <b>Check Integrity</b> under Play Integrity
+
+![](image/play_integrity4.jpg?raw=true)
+
+- You'll get first "Running" status, then a result
+
+![](image/play_integrity5.jpg?raw=true)
+
+- To pass you'll need to see:
+
+Labels: [MEETS DEVICE INTEGRITY, MEETS BASIC INTEGRITY]
+
+Please DO NOT post an issue or ask questions about passing STRONG INTEGRITY. Just dont....
+
+---
+
+Alternate method via app, though often rate limited by Google
+
 You can check you are passing this requirement via this app (install, run, and tap Check): 
 
 Play Integrity API Checker: [Google Play Store](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck)
 
 ![play integrity check app logo](image/integritylogo.jpg?raw=true) ![play integrity check app screenshot1](image/integrity1.jpg?raw=true) ![play integrity check app screenshot2](image/integrity2.jpg?raw=true)
-
-Or 
-
-via <b>Google Play Store</b>:<br>
-- Open <b>Google Play Store</b>
-- Go into <b>Settings</b>, then <b>About</b> (at bottom)
-- Tap <b>Play Store Version</b> 5 times to enable <b>Developer Options</b>
-- Open <b>General</b> section (at top)
-- Tap <b>Developer Options</b> (at bottom)
-- Click <b>Check Integrity</b> under Play Integrity
-
-Regardless of the method used, on most devices, you will only see, or need to pass:
-
-- MEETS DEVICE INTEGRITY
-- MEETS BASIC INTEGRITY
 
 ---
 
