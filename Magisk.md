@@ -33,9 +33,9 @@ They will be closed without reply.</b><br>
 [Magisk](https://github.com/topjohnwu/Magisk#downloads) - Official.<br>
 
 Modules:
-- [Play Integrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985)
-- [SafetyNet Fix (USNF)](https://github.com/kdrag0n/safetynet-fix/releases) - Official.
-- [SafetyNet Fix (USNF)](https://github.com/Displax/safetynet-fix/releases) - <i>Modified by <b>Displax</b></i>.<br>
+- [Play Integrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985) (Current best option due to Google end changes)
+- [SafetyNet Fix (USNF)](https://github.com/kdrag0n/safetynet-fix/releases) - Official. (curruently not working)
+- [SafetyNet Fix (USNF)](https://github.com/Displax/safetynet-fix/releases) - <i>Modified by <b>Displax</b></i>.<br> (curruently not working)
 - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 
 <i><b>Note: At time of writing (06/02/2023 DD/MM/YYYY)</b> Kdrag0n's official USNF 2.4.0 does have some issues.<br>
