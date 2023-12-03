@@ -1,6 +1,6 @@
 # Passing Integrity Check API Testing
 
-Currently due to rate limiting of apps that check Integirty, the preferred method of Intgrity Testing is to use Google Play Store
+Currently due to rate limiting of apps that check Integrity, the preferred method of Integrity Testing is to use Google Play Store
 
 <b>Google Play Store Method</b>:<br>
 
