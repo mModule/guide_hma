@@ -1,3 +1,21 @@
+
+# Play Intergrity Fix
+
+Due to changes on Googles server end, Universal SafetyNet Fix, the if xused opreviously, doesnt not, in its current form, work.
+
+Instead we currently now use Play Integrity Fix, by @chiteroman, and forked by @osm0sis
+
+Please follow the conversation (its a lengthy one, so be sure ot read the OP, and the last 5-10 pages of the thread. here:
+
+https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/
+
+Please note: The installation is the same as for USNF below, or any other magisk module
+
+---
+
+Deprecated, for the moment at least:
+
+
 # Universal SafetyNet Fix
 
 This module <b>requires</b> <i>Zygisk</i> to be enabled and active in Magisk.<br>
