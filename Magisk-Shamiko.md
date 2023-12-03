@@ -70,6 +70,7 @@ A renamed/obfuscated Magisk App.<br>
 <b>Note:</b><br>
 Methods used to pass Play Integrity and for extra 'root-trace' hiding, therefore referenced modules like Shamiko, may change at any time.<br>
 Please visit and watch the following XDA threads:
+   - [Play Integrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985)
    - [Universal SafetyNet Fix](https://forum.xda-developers.com/t/magisk-module-universal-safetynet-fix-2-3-1.4217823)
    - [Magisk - The Age Of Zygisk](https://forum.xda-developers.com/t/discussion-magisk-the-age-of-zygisk.4393877)
 
