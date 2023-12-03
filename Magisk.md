@@ -9,7 +9,7 @@ This is a brief guide using the official Magisk build(s) to:<br>
 2) Hide Root From Apps.
 
 This is done by using two modules.<br>
-SaftyNet-Fix to pass Play Integrity and Shamiko to hide root from applications that you choose.<br>
+Play Integrity Fix (previously Universal SafetyNet Fix (USNF)) to pass Play Integrity and Shamiko to hide root from applications that you choose.<br>
 
 Note:<br>
 >This is not to discourage use of or disparage those who use other variants (forks) of Magisk or alternative integrity verdict or root hiding solutions.<br>
@@ -26,13 +26,14 @@ They will be closed without reply.</b><br>
 
 ## Requirement(s)
 - Magisk
-- SafetyNet Fix
+- Play Integruity Fix (previously Universal SafetyNet Fix (USNF))
 - Shamiko
 
 ## Download Links
 [Magisk](https://github.com/topjohnwu/Magisk#downloads) - Official.<br>
 
 Modules:
+- [Play Integrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985)
 - [SafetyNet Fix (USNF)](https://github.com/kdrag0n/safetynet-fix/releases) - Official.
 - [SafetyNet Fix (USNF)](https://github.com/Displax/safetynet-fix/releases) - <i>Modified by <b>Displax</b></i>.<br>
 - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
