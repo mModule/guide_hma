@@ -1,5 +1,5 @@
 
-# Play Intergrity Fix
+# Play Integrity Fix
 
 Due to changes on Googles server end, Universal SafetyNet Fix, the if xused opreviously, doesnt not, in its current form, work.
 
