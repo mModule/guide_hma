@@ -45,6 +45,37 @@ If you have not read the differences between BlackList and WhiteList modes, plea
 
 ---
 
+## HMA Settings/Module Section:
+
+**WARNING:** In the worst case, we have had at least one report of enabling Vold App Data leading to a non-booting device running Android 14,
+so please as always have a backup handy before changing any system altering function or module.
+
+HMA has its own Settings menu, where you can change additional settings, underneath which is a Module section, and the Data Isolation settings options
+
+As a general rule, most of us never fiddle with these options. 
+
+By default most people should see...
+
+![](image/hma_settings1.jpg?raw=true)
+
+OR
+
+    App Data: Enabled
+    Vold App Data: Disabled
+    Force Mount: Enabled
+
+Some people devices/ROM's being different may benefit from enabling Vold App Data. 
+
+![](image/hma_settings2.jpg?raw=true)
+
+to
+
+![](image/hma_settings3.jpg?raw=true)
+
+But you should try the default settings first.
+
+---
+
 Continue to :<br>
 [<b>Configure Blacklist Mode</b>](BlackList.md)<br>
 
