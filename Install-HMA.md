@@ -47,8 +47,8 @@ If you have not read the differences between BlackList and WhiteList modes, plea
 
 ## HMA Settings/Module Section:
 
-**WARNING:** In the worst case, we have had at least one report of enabling Vold App Data leading to a non-booting device running Android 14,
-so please as always have a backup handy before changing any system altering function or module.
+**WARNING:** In the worst case, we have had at least one report of enabling Vold App Data leading to apps freezing on devices running Android 14, where removing the module apparently fails to revert the problem.
+So please as always have a backup handy before changing any system altering function or module.
 
 HMA has its own Settings menu, where you can change additional settings, underneath which is a Module section, and the Data Isolation settings options
 
