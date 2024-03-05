@@ -9,7 +9,7 @@ Multiple reports from Pixel 6/7/8 users that apps fail to launch after updating 
 
 For now im aware of no fix, and havent replicated myself yet as i have yet to update to March 2024 stock Google Pixel ROM
 
-I will try and replicate tomorrow and provde any feedback i can
+I will try and replicate tomorrow and provide any feedback i can
 
 ---
 
