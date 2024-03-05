@@ -3,6 +3,16 @@
 This is a quick guide to hopefully make it a little easier for people new to Hide My Applist.<br>
 <i>Often referred to as <b>HMA</b> and will be referenced as such in the majority of this guide.</i>
 
+# Warning for Google Pixel users - March 2024: #
+
+Multiple reports from Pixel 6/7/8 users that apps fail to launch after updating to March 2024 stock Google Pixel ROM
+
+For now im aware of no fix, and havent replicated myself yet as i have yet to update to March 2024 stock Google Pixel ROM
+
+I will try and replicate tomorrow and provde any feedback i can
+
+---
+
 ## Description
 
 In the simplest terms it aims to stop one app detecting a list of other installed apps.<br>
