@@ -11,6 +11,19 @@ For now im aware of no fix, and havent replicated myself yet as i have yet to up
 
 I will try and replicate tomorrow and provide any feedback i can
 
+**UPDATE:**
+
+Sorry i only just got back to Stock A14 from testing/running Derp and other custom ROM's, and found that all i had to do personally was disable
+
+**Enforce data isolation for all apps**
+
+Under HMA -> Settings -> Data Isolation -> Module
+
+Note: this may work for all my apps as they are up to date and probably all target the higher/correct API levels - trying to enforce it via this toggle was breaking them
+
+My **App Data Isolation** and **Vold App Data Isolation** toggles have remained on
+
+
 ---
 
 ## Description
