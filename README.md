@@ -7,22 +7,16 @@ This is a quick guide to hopefully make it a little easier for people new to Hid
 
 Multiple reports from Pixel 6/7/8 users that apps fail to launch after updating to March 2024 stock Google Pixel ROM
 
-For now im aware of no fix, and havent replicated myself yet as i have yet to update to March 2024 stock Google Pixel ROM
-
-I will try and replicate tomorrow and provide any feedback i can
-
 **UPDATE:**
 
-Sorry i only just got back to Stock A14 from testing/running Derp and other custom ROM's, and found that all i had to do personally was disable
+Thanks to (Github) AviraXP for a commit, which was merged by (Dev on Github) Dr-TSNG, and then a preview CI buildl linked by (XDA) pndwal,
+Post March A14 users shoudl be abel to have  the frezzing issue fixed by install the build linked here (under Artifacts):
 
-**Enforce data isolation for all apps**
+https://github.com/Dr-TSNG/Hide-My-Applist/actions/runs/8747703933
 
-Under HMA -> Settings -> Data Isolation -> Module
+Assume it will become an offical release soonish - so please also monitor the main releases page here:
 
-Note: this may work for all my apps as they are up to date and probably all target the higher/correct API levels - trying to enforce it via this toggle was breaking them
-
-My **App Data Isolation** and **Vold App Data Isolation** toggles have remained on
-
+https://github.com/Dr-TSNG/Hide-My-Applist/releases
 
 ---
 
