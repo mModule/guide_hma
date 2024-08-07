@@ -9,8 +9,8 @@ Multiple reports from Pixel 6/7/8 users that apps fail to launch after updating 
 
 **UPDATE:**
 
-Thanks to (Github) AviraXP for a commit, which was merged by (Dev on Github) Dr-TSNG, and then a preview CI buildl linked by (XDA) pndwal,
-Post March A14 users shoudl be abel to have  the frezzing issue fixed by install the build linked here (under Artifacts):
+Thanks to (Github) AviraXP for a commit, which was merged by (Dev on Github) Dr-TSNG, and then a preview CI build linked by (XDA) pndwal,
+Post March A14 users should be able to have the freezing issue fixed by installing the build linked here (under Artifacts):
 
 https://github.com/Dr-TSNG/Hide-My-Applist/actions/runs/8747703933
 
