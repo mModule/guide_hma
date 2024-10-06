@@ -1,23 +1,5 @@
 # Hide My Applist Guide
 
-This is a quick guide to hopefully make it a little easier for people new to Hide My Applist.<br>
-<i>Often referred to as <b>HMA</b> and will be referenced as such in the majority of this guide.</i>
-
-# Warning for Google Pixel users - March 2024: #
-
-Multiple reports from Pixel 6/7/8 users that apps fail to launch after updating to March 2024 stock Google Pixel ROM
-
-**UPDATE:**
-
-Thanks to (Github) AviraXP for a commit, which was merged by (Dev on Github) Dr-TSNG, and then a preview CI build linked by (XDA) pndwal,
-Post March A14 users should be able to have the freezing issue fixed by installing the build linked here (under Artifacts):
-
-https://github.com/Dr-TSNG/Hide-My-Applist/actions/runs/8747703933
-
-Assume it will become an offical release soonish - so please also monitor the main releases page here:
-
-https://github.com/Dr-TSNG/Hide-My-Applist/releases
-
 ---
 
 ## Description
@@ -44,6 +26,8 @@ Besides hiding root from sensitive (secure) apps, you can also hide installed ap
 ## Download Links
 - [LSPosed framework](https://github.com/LSPosed/LSPosed/releases)
 - [Hide My Applist (HMA)](https://github.com/Dr-TSNG/Hide-My-Applist/releases)
+Or, alternately a new form of HMA, by **PumPCin**
+- [Hide My App List (HMAL)] (https://github.com/pumPCin/HMAL/releases)  
 
 ## Pages (How to)
 - [Install LSPosed](Install-LSPosed.md)
