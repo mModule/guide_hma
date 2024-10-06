@@ -41,6 +41,8 @@ Or, alternately a new fork of HMA, by **PumPCin**
 - [Backup and Restore HMA settings](BackupAndRestore.md)
 
 ## Notes
+<b>Note: Please consider any mention of HMA to also interchangeably refer to HMAL (Hide My App List, PumPCins fork)</b>
+
 <b>This guide is for Hide My Applist v3.x</b>
 >1. It is now <b>safe</b> to use the downloader in <i>LSPosed Manager</i> to download/update HMA.<br>
 <i>(When this guide was originally posted LSPosed was only serving v2.x builds as v3.x were still in beta)</i><br>
