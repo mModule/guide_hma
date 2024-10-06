@@ -27,7 +27,7 @@ Besides hiding root from sensitive (secure) apps, you can also hide installed ap
 - [LSPosed framework](https://github.com/LSPosed/LSPosed/releases)
 - [Hide My Applist (HMA)](https://github.com/Dr-TSNG/Hide-My-Applist/releases)
 Or, alternately a new form of HMA, by **PumPCin**
-- [Hide My App List (HMAL)] (https://github.com/pumPCin/HMAL/releases)  
+- [Hide My App List (HMAL)](https://github.com/pumPCin/HMAL/releases)  
 
 ## Pages (How to)
 - [Install LSPosed](Install-LSPosed.md)
