@@ -10,7 +10,7 @@ On the Home tab, tap <b>App Manage</b>
 
 ![](image/wl01.jpg?raw=true)
 
-On the following screen, you'll see a list of all your apps, select any form which you want to hide other apps by tapping them, one at a time.
+On the following screen, you'll see a list of all your apps, select any apps which you want to hide other apps from by tapping them, one at a time.
 
 ![](image/wl02.jpg?raw=true)
 
